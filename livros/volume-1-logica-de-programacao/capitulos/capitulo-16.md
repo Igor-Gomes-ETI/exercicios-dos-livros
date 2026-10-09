@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-16/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 133, página 145 do livro completo):
 
 Crie um programa com um menu de 4 opções: soma, subtração, multiplicação e divisão.
@@ -32,6 +34,8 @@ Resultado: 5.00
 ```
 
 ## Exercício 2
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-16/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 133, página 145 do livro completo):
 
@@ -66,6 +70,8 @@ Bia: 5.00
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-16/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 133, página 145 do livro completo):
 
 Crie um programa que exiba um menu de compras (produto e preço) e calcule o total.
@@ -94,6 +100,8 @@ Total: 28.00
 
 ## Exercício 4
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-16/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 133, página 145 do livro completo):
 
 Escreva um programa que exiba um contador regressivo de 10 a 0 e mostre “Fim!”.
@@ -113,6 +121,8 @@ Fim!
 ```
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-16/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 133, página 145 do livro completo):
 

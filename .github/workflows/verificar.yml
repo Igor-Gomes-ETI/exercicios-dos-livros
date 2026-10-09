@@ -9,3 +9,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: Verificar C e PHP
         run: python3 tests/verificar.py
+      - name: Verificar formulario PHP no navegador
+        run: python3 tests/verificar_web.py

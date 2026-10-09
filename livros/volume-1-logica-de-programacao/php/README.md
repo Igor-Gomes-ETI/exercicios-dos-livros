@@ -61,6 +61,23 @@ echo '<h1>Meu primeiro PHP com XAMPP!</h1>';
 
 `htdocs` é a pasta das páginas atendidas pelo Apache; `localhost` aponta para o seu próprio computador. Não abra `ola.php` com duplo clique: acesse o endereço acima para o PHP ser executado. O serviço de banco de dados não é necessário para esse teste. Para transformar exercícios de terminal em páginas interativas, será preciso criar formulários e adaptar a leitura para `$_POST` ou `$_GET`.
 
+## Executar um exercício com formulário no navegador
+
+A pasta [navegador](navegador/) contém uma adaptação adicional do **exercício 1.4 — soma de dois números** em PHP, com campos para digitar os valores. O programa original permanece preservado. Aqui as entradas são enviadas por formulário (`POST`), em vez de `STDIN`.
+
+1. Após baixar e extrair o repositório, localize `livros/volume-1-logica-de-programacao/php/navegador` no Explorador de Arquivos.
+2. Copie essa pasta para `C:\xampp\htdocs` e renomeie a cópia para `exercicios-livros`. Confira que `index.php` ficou diretamente em `C:\xampp\htdocs\exercicios-livros`.
+3. Abra o **XAMPP Control Panel** e clique em **Start** na linha Apache. Não é necessário iniciar o banco de dados.
+4. No navegador, acesse `http://localhost/exercicios-livros/`. Não use o caminho `C:\...` na barra de endereços.
+5. Digite `2` no primeiro campo e `3` no segundo. Clique em **Calcular soma**: o resultado esperado é `5.00`.
+6. Teste também `-2` e `3` (resultado `1.00`), `1.5` e `2.5` (resultado `4.00`) e um campo vazio (o formulário deve solicitar o preenchimento). Para decimais, use ponto.
+7. Para estudar o código, abra o `index.php` copiado em um editor. Salve as alterações e atualize a página para executar novamente. Faça suas experiências nessa cópia local; para compartilhar, use a pasta com seu nick conforme o guia abaixo.
+8. Ao terminar, clique em **Stop** na linha Apache.
+
+Para enviar sua própria versão, coloque-a em `alternativas/seu-nick/volume-1/capitulo-01/exercicio-04/index.php` com um README. Siga o [guia de contribuição](../../../CONTRIBUTING.md). Para executar outra solução feita para navegador, copie a pasta desse exercício para `htdocs`, escolha um nome sem espaços e acesse `http://localhost/nome-da-pasta/`.
+
+Se você apenas copiar um exemplo de terminal para `htdocs`, ele continuará esperando entradas de terminal. Use o formulário desta adaptação como referência para entender o envio e a validação de `$_POST` ao criar sua própria versão web.
+
 ## Se algo não funcionar
 
 | Situação | Como conferir |

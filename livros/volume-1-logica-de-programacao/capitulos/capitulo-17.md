@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-17/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 145, página 157 do livro completo):
 
 Crie um programa que gerencie o estoque de uma loja (entrada e saída de produtos).
@@ -34,6 +36,8 @@ Estoque: 7
 
 ## Exercício 2
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-17/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 145, página 157 do livro completo):
 
 Desenvolva um programa que calcule o consumo médio de combustível de um carro.
@@ -59,6 +63,8 @@ Consumo: 15.00 km/L
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-17/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 145, página 157 do livro completo):
 
 Faça um simulador de login (usuário e senha pré-cadastrados).
@@ -83,6 +89,8 @@ Login aceito
 ```
 
 ## Exercício 4
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-17/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 145, página 157 do livro completo):
 
@@ -117,6 +125,8 @@ Menor: -10.00
 ```
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-17/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 145, página 157 do livro completo):
 

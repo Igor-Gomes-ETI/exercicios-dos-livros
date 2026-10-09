@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-11/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 89, página 101 do livro completo):
 
 Crie uma lista encadeada simples com três elementos e mostre os valores.
@@ -25,6 +27,8 @@ Resultado esperado (trecho quando houver outras mensagens):
 ```
 
 ## Exercício 2
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-11/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 89, página 101 do livro completo):
 
@@ -55,6 +59,8 @@ Caio
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-11/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 89, página 101 do livro completo):
 
 Desenvolva um código que utilize malloc() para criar um vetor de tamanho informado pelo usuário.
@@ -84,6 +90,8 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 4
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-11/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 89, página 101 do livro completo):
 
 Explique, com suas palavras, a diferença entre pilha e fila.
@@ -93,6 +101,8 @@ Explique, com suas palavras, a diferença entre pilha e fila.
 Pilha usa LIFO: o último a entrar é o primeiro a sair, como uma pilha de pratos. Fila usa FIFO: o primeiro a entrar é o primeiro a sair, como uma fila de atendimento. As operações típicas são empilhar/desempilhar e enfileirar/desenfileirar.
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-11/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 89, página 101 do livro completo):
 

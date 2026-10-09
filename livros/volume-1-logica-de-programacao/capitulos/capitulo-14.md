@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-14/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 115, página 127 do livro completo):
 
 Crie um programa em C que grave o nome e a idade de 3 pessoas em um arquivo.
@@ -35,6 +37,8 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 2
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-14/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 115, página 127 do livro completo):
 
 Faça um programa que leia o conteúdo de um arquivo e exiba na tela.
@@ -54,6 +58,8 @@ Ana
 ```
 
 ## Exercício 3
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-14/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 115, página 127 do livro completo):
 
@@ -81,6 +87,8 @@ Caio
 
 ## Exercício 4
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-14/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 115, página 127 do livro completo):
 
 Em PHP, crie um script que registre um log de acessos (data e hora) em um arquivo.
@@ -98,6 +106,8 @@ Acesso registrado
 ```
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-14/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 115, página 127 do livro completo):
 

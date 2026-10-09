@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-10/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 80, página 92 do livro completo):
 
 Crie uma função soma() que receba dois números e retorne o resultado.
@@ -30,6 +32,8 @@ Soma: 5.00
 ```
 
 ## Exercício 2
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-10/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 80, página 92 do livro completo):
 
@@ -57,6 +61,8 @@ Maior: 7.00
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-10/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 80, página 92 do livro completo):
 
 Desenvolva uma função mediaAluno() que receba 3 notas e retorne a média.
@@ -83,6 +89,8 @@ Media: 6.00
 
 ## Exercício 4
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-10/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 80, página 92 do livro completo):
 
 Crie uma função recursiva para calcular o fatorial de um número.
@@ -106,6 +114,8 @@ Fatorial: 120
 ```
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-10/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 80, página 92 do livro completo):
 

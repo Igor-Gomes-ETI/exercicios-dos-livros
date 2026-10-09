@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-15/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 124, página 136 do livro completo):
 
 Escreva um algoritmo que leia dois números e mostre o maior.
@@ -31,6 +33,8 @@ Maior: 8.00
 
 ## Exercício 2
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-15/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 124, página 136 do livro completo):
 
 Faça um programa que calcule o salário líquido com base no salário bruto e um desconto de 8%.
@@ -54,6 +58,8 @@ Liquido: 920.00
 ```
 
 ## Exercício 3
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-15/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 124, página 136 do livro completo):
 
@@ -82,6 +88,8 @@ Ana: 6.00 - Aprovado
 
 ## Exercício 4
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-15/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 124, página 136 do livro completo):
 
 Desenvolva um programa que mostre os números de 1 a 100 e indique quais são pares.
@@ -100,6 +108,8 @@ Resultado esperado (trecho quando houver outras mensagens):
 ```
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-15/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 124, página 136 do livro completo):
 

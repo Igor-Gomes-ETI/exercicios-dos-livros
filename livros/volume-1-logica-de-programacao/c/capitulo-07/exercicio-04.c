@@ -1,3 +1,7 @@
+/* Sua alternativa: alternativas/seu-nick/volume-1/capitulo-07/exercicio-04/
+ * Crie sua propria pasta com codigo e README; preserve este exemplo.
+ * Passo a passo no CONTRIBUTING.md da raiz do repositorio.
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

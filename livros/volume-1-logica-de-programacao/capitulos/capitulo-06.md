@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-06/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 50, página 62 do livro completo):
 
 Escreva um programa que leia a idade e diga se a pessoa é criança (≤12), adolescente (≤17), adulto (≤59) ou idoso (≥60).
@@ -29,6 +31,8 @@ Idoso
 ```
 
 ## Exercício 2
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-06/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 50, página 62 do livro completo):
 
@@ -54,6 +58,8 @@ Recuperacao
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-06/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 50, página 62 do livro completo):
 
 Faça um programa com switch que exiba o dia da semana de acordo com o número digitado (1 = Domingo, 2 = Segunda...).
@@ -78,6 +84,8 @@ Domingo
 
 ## Exercício 4
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-06/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 50, página 62 do livro completo):
 
 Escreva um código que pergunte o valor da compra e exiba o desconto aplicado: • Até R$100 → 5% • Até R$500 → 10% • Acima de R$500 → 15%
@@ -101,6 +109,8 @@ Total: 95.00
 ```
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-06/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 50, página 62 do livro completo):
 

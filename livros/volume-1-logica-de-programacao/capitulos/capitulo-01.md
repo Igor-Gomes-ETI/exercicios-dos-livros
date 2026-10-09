@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-01/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 10, página 22 do livro completo):
 
 Descreva em linguagem natural o algoritmo para preparar um café.
@@ -15,6 +17,8 @@ Descreva em linguagem natural o algoritmo para preparar um café.
 Uma sequência em linguagem natural pode ser: separar água, café, filtro e recipiente; aquecer a água; colocar o filtro; adicionar o pó; despejar a água aos poucos; aguardar a filtragem; servir. O método escolhido é café coado; outros métodos também atendem ao enunciado.
 
 ## Exercício 2
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-01/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 10, página 22 do livro completo):
 
@@ -35,6 +39,8 @@ FIM
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-01/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 10, página 22 do livro completo):
 
 Explique, com suas palavras, a diferença entre lógica, algoritmo e programação.
@@ -44,6 +50,8 @@ Explique, com suas palavras, a diferença entre lógica, algoritmo e programaç�
 Lógica organiza o raciocínio e as relações entre condições. Algoritmo é uma sequência finita e ordenada de passos para resolver um problema. Programação expressa esses passos em uma linguagem executável. Uma mesma lógica pode originar algoritmos e implementações diferentes.
 
 ## Exercício 4
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-01/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 10, página 22 do livro completo):
 
@@ -69,6 +77,8 @@ Soma: 5.00
 ```
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-01/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 10, página 22 do livro completo):
 

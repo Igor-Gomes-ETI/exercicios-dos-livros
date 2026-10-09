@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-09/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 72, página 84 do livro completo):
 
 Leia uma matriz 3×3 e exiba a soma dos elementos.
@@ -37,6 +39,8 @@ Soma: 45.00
 ```
 
 ## Exercício 2
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-09/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 72, página 84 do livro completo):
 
@@ -70,6 +74,8 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-09/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 72, página 84 do livro completo):
 
 Desenvolva um código que leia duas matrizes 2×2 e exiba a soma entre elas.
@@ -101,6 +107,8 @@ Resultado esperado (trecho quando houver outras mensagens):
 ```
 
 ## Exercício 4
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-09/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 72, página 84 do livro completo):
 
@@ -140,6 +148,8 @@ Maiores que 10: 6
 ```
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-09/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 72, página 84 do livro completo):
 

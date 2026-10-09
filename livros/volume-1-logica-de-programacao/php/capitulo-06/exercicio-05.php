@@ -1,5 +1,10 @@
 <?php
 declare(strict_types=1);
+/* Sua alternativa: alternativas/seu-nick/volume-1/capitulo-06/exercicio-05/
+ * Crie sua propria pasta com codigo e README; preserve este exemplo.
+ * Passo a passo no CONTRIBUTING.md da raiz do repositorio.
+ */
+
 // Exemplos de terminal: cada entrada ocupa uma linha.
 function linha(): string {
     $s = fgets(STDIN);

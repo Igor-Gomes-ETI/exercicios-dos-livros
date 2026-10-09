@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-20/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 171, página 183 do livro completo):
 
 Calcule o tempo de execução teórico de um loop duplo (for dentro de for).
@@ -15,6 +17,8 @@ Calcule o tempo de execução teórico de um loop duplo (for dentro de for).
 Se os dois laços executam n iterações independentes, o corpo executa n² vezes: tempo Θ(n²) e espaço auxiliar Θ(1) se usa apenas contadores. Para limites n e m diferentes, são n×m iterações. Laços com limites dependentes precisam de outra soma.
 
 ## Exercício 2
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-20/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 171, página 183 do livro completo):
 
@@ -35,6 +39,8 @@ Binaria: 10
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-20/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 171, página 183 do livro completo):
 
 Escreva uma função que conte quantas vezes o número 1 aparece em uma matriz 100×100.
@@ -52,6 +58,8 @@ Ocorrencias: 100
 ```
 
 ## Exercício 4
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-20/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 171, página 183 do livro completo):
 
@@ -71,6 +79,8 @@ Resultados iguais de 0 a 20
 ```
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-20/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 171, página 183 do livro completo):
 

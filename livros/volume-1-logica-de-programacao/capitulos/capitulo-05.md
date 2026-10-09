@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-05/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 43, página 55 do livro completo):
 
 Escreva um programa em C que leia dois números e mostre: • A soma • A subtração • A multiplicação • O quociente • O resto da divisão
@@ -32,6 +34,8 @@ Resto: 1
 
 ## Exercício 2
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-05/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 43, página 55 do livro completo):
 
 Crie um programa que leia a idade e diga se o usuário é maior de idade.
@@ -55,6 +59,8 @@ Maior de idade
 ```
 
 ## Exercício 3
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-05/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 43, página 55 do livro completo):
 
@@ -82,6 +88,8 @@ Aprovado
 
 ## Exercício 4
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-05/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 43, página 55 do livro completo):
 
 Teste a diferença entre x++ e ++x e anote os resultados.
@@ -100,6 +108,8 @@ x++: retorno=5, x=6
 ```
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-05/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 43, página 55 do livro completo):
 

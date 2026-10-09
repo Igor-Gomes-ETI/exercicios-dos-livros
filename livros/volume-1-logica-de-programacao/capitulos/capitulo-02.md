@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-02/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 17, página 29 do livro completo):
 
 Crie um algoritmo que leia o nome e a idade de uma pessoa e exiba: “Olá, [nome]! Você tem [idade] anos.”
@@ -30,6 +32,8 @@ Ola, Ana Silva! Voce tem 20 anos.
 ```
 
 ## Exercício 2
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-02/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 17, página 29 do livro completo):
 
@@ -56,6 +60,8 @@ IMC: 22.22
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-02/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 17, página 29 do livro completo):
 
 Escreva o pseudocódigo para determinar se um número é par ou ímpar.
@@ -74,6 +80,8 @@ FIM
 
 ## Exercício 4
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-02/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 17, página 29 do livro completo):
 
 Faça um teste de mesa para o algoritmo de cálculo da média de notas apresentado no capítulo.
@@ -89,6 +97,8 @@ O algoritmo do capítulo usa QUATRO notas (P1, P2, P3, P4), não três. Some as 
 |8|9|10|7|34|8,5|
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-02/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 17, página 29 do livro completo):
 

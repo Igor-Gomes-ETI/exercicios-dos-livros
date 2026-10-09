@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-12/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 98, página 110 do livro completo):
 
 Implemente o Bubble Sort para ordenar 10 números digitados pelo usuário.
@@ -39,6 +41,8 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 2
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-12/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 98, página 110 do livro completo):
 
 Faça um programa que leia 5 nomes e os exiba em ordem alfabética (C ou PHP).
@@ -71,6 +75,8 @@ Eva
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-12/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 98, página 110 do livro completo):
 
 Crie um vetor com valores aleatórios e ordene usando o Selection Sort.
@@ -88,6 +94,8 @@ Ordenado
 ```
 
 ## Exercício 4
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-12/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 98, página 110 do livro completo):
 
@@ -107,6 +115,8 @@ Selection: 2
 ```
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-12/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 98, página 110 do livro completo):
 

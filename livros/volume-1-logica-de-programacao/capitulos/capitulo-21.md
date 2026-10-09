@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-21/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 178, página 190 do livro completo):
 
 Descreva em pseudocódigo o processo de preparar um sanduíche.
@@ -25,6 +27,8 @@ FIM
 ```
 
 ## Exercício 2
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-21/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 178, página 190 do livro completo):
 
@@ -52,6 +56,8 @@ Aprovado
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-21/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 178, página 190 do livro completo):
 
 Explique com suas palavras o que é abstração e dê um exemplo.
@@ -62,6 +68,8 @@ Abstração seleciona o que importa para o problema e omite detalhes irrelevante
 
 ## Exercício 4
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-21/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 178, página 190 do livro completo):
 
 Liste 5 situações do dia a dia onde você usaria decomposição.
@@ -71,6 +79,8 @@ Liste 5 situações do dia a dia onde você usaria decomposição.
 Cinco exemplos: organizar uma viagem (transporte, hospedagem, roteiro); preparar uma refeição (ingredientes, preparo, serviço); planejar estudos (temas, horários, revisão); fazer mudança (separar, embalar, transportar); organizar um evento (local, convidados, materiais). Cada situação pode ser dividida em tarefas menores.
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-21/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 178, página 190 do livro completo):
 

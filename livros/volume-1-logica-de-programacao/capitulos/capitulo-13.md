@@ -6,6 +6,8 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-13/exercicio-01/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 106, página 118 do livro completo):
 
 Crie um vetor com 10 números e implemente uma busca linear para localizar um valor informado pelo usuário.
@@ -29,6 +31,8 @@ Indice: 3
 ```
 
 ## Exercício 2
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-13/exercicio-02/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 106, página 118 do livro completo):
 
@@ -64,6 +68,8 @@ Indice ordenado: 6
 
 ## Exercício 3
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-13/exercicio-03/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 106, página 118 do livro completo):
 
 Em PHP, crie uma busca em um array de nomes e exiba se o nome foi encontrado.
@@ -88,6 +94,8 @@ Encontrado
 
 ## Exercício 4
 
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-13/exercicio-04/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
+
 **Enunciado** (página impressa 106, página 118 do livro completo):
 
 Explique, em suas palavras, a diferença entre busca linear e busca binária.
@@ -97,6 +105,8 @@ Explique, em suas palavras, a diferença entre busca linear e busca binária.
 Busca linear examina elementos sucessivamente e funciona em dados desordenados; no pior caso é O(n). Busca binária elimina metade do intervalo a cada passo e exige dados ordenados; é O(log n). Ordenar antes também tem custo e deve ser considerado.
 
 ## Exercício 5
+
+**Compartilhe sua resolução:** crie `alternativas/seu-nick/volume-1/capitulo-13/exercicio-05/`, coloque sua resposta ou código e um `README.md` com explicação e testes. Não altere esta resolução proposta. [Veja como criar a pasta e enviar](../../../CONTRIBUTING.md).
 
 **Enunciado** (página impressa 106, página 118 do livro completo):
 
