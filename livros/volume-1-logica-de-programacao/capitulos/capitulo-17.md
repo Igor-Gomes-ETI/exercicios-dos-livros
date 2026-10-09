@@ -1,36 +1,145 @@
-# Capítulo 17 — Mini Projetos em C — Exercícios Completos e Comentados
+# Capítulo 17 — exercícios resolvidos
 
-Fonte: 1ª edição publicada, página impressa 145 (página 157 do PDF).
+Estas resoluções foram elaboradas com auxílio do ChatGPT e são exemplos de caminhos possíveis. Não são a única forma de resolver, nem necessariamente a melhor. Você pode criar sua própria solução, inclusive uma melhor, e compartilhá-la para que outros leitores comparem as abordagens.
 
-[Voltar ao índice](../README.md)
+[Como compartilhar outra solução](../../../CONTRIBUTING.md) · [Índice](../README.md)
 
 ## Exercício 1
 
+**Enunciado** (página impressa 145, página 157 do PDF):
+
 Crie um programa que gerencie o estoque de uma loja (entrada e saída de produtos).
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+Controle de um produto: entrada acrescenta unidades e saída só é aceita se houver estoque. A estrutura pode ser ampliada para vários produtos; isso é uma alternativa, não uma exigência omitida.
+
+[Ver programa completo (C)](../c/capitulo-17/exercicio-01.c)
+
+Entrada de exemplo (uma informação por linha):
+
+```text
+1
+10
+2
+3
+0
+```
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+Estoque: 7
+```
 
 ## Exercício 2
 
+**Enunciado** (página impressa 145, página 157 do PDF):
+
 Desenvolva um programa que calcule o consumo médio de combustível de um carro.
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+Consumo médio é distância percorrida em km dividida pelo combustível gasto em litros. Litros precisa ser maior que zero.
+
+[Ver programa completo (C)](../c/capitulo-17/exercicio-02.c)
+
+Entrada de exemplo (uma informação por linha):
+
+```text
+300
+20
+```
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+Consumo: 15.00 km/L
+```
 
 ## Exercício 3
 
+**Enunciado** (página impressa 145, página 157 do PDF):
+
 Faça um simulador de login (usuário e senha pré-cadastrados).
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+Simulação local com credenciais fictícias aluno/estudo123. Compare ambas as strings. Não é um sistema de autenticação para produção.
+
+[Ver programa completo (C)](../c/capitulo-17/exercicio-03.c)
+
+Entrada de exemplo (uma informação por linha):
+
+```text
+aluno
+estudo123
+```
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+Login aceito
+```
 
 ## Exercício 4
 
+**Enunciado** (página impressa 145, página 157 do PDF):
+
 Crie um programa que leia 10 números e mostre o maior e o menor.
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+Inicialize extremos com o primeiro dos dez valores; isso também funciona com números todos negativos.
+
+[Ver programa completo (C)](../c/capitulo-17/exercicio-04.c)
+
+Entrada de exemplo (uma informação por linha):
+
+```text
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+```
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+Maior: -1.00
+Menor: -10.00
+```
 
 ## Exercício 5
 
+**Enunciado** (página impressa 145, página 157 do PDF):
+
 Monte um jogo simples de adivinhação de número entre 1 e 50.
 
-**Resolução:** em preparação.
+### Uma resolução possível
 
+Sorteie um número de 1 a 50 e repita palpites até acertar. Para teste, um argumento opcional define o alvo; no uso normal há sorteio.
+
+A variável de ambiente `ALVO_TESTE=25` permite repetir o teste. Sem ela o alvo é sorteado. `rand` é suficiente para este jogo didático, mas não para operações de segurança.
+
+[Ver programa completo (C)](../c/capitulo-17/exercicio-05.c)
+
+Entrada de exemplo (uma informação por linha):
+
+```text
+20
+30
+25
+```
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+Acertou!
+```

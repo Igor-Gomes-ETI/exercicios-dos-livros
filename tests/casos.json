@@ -1,0 +1,530 @@
+[
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-01/exercicio-04.c",
+    "language": "c",
+    "input": "2\n3\n",
+    "expected": "Soma: 5.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-02/exercicio-01.c",
+    "language": "c",
+    "input": "Ana Silva\n20\n",
+    "expected": "Ola, Ana Silva! Voce tem 20 anos."
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-02/exercicio-02.c",
+    "language": "c",
+    "input": "72\n1.8\n",
+    "expected": "IMC: 22.22"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-02/exercicio-05.c",
+    "language": "c",
+    "input": "100\n",
+    "expected": "Total: 90.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-03/exercicio-04.c",
+    "language": "c",
+    "input": "2\n-1\n3\n0\n",
+    "expected": "Soma: 4.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-04/exercicio-01.c",
+    "language": "c",
+    "input": "",
+    "expected": "Idade: 25; Peso: 70.50; Altura: 1.75"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-04/exercicio-02.c",
+    "language": "c",
+    "input": "Ana\n2000\n2026\n",
+    "expected": "Ana: idade aproximada 26"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-04/exercicio-03.c",
+    "language": "c",
+    "input": "2\n",
+    "expected": "Area: 12.5664"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-04/exercicio-04.c",
+    "language": "c",
+    "input": "100\n",
+    "expected": "Dolares: 20.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-05/exercicio-01.c",
+    "language": "c",
+    "input": "7\n2\n",
+    "expected": "Quociente: 3.50\nResto: 1"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-05/exercicio-02.c",
+    "language": "c",
+    "input": "18\n",
+    "expected": "Maior de idade"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-05/exercicio-03.c",
+    "language": "c",
+    "input": "6\n6\n6\n",
+    "expected": "Aprovado"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-05/exercicio-04.c",
+    "language": "c",
+    "input": "",
+    "expected": "x++: retorno=5, x=6\n++x: retorno=6, x=6"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-05/exercicio-05.php",
+    "language": "php",
+    "input": "4\n",
+    "expected": "Positivo e par"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-06/exercicio-01.c",
+    "language": "c",
+    "input": "60\n",
+    "expected": "Idoso"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-06/exercicio-02.c",
+    "language": "c",
+    "input": "4\n",
+    "expected": "Recuperacao"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-06/exercicio-03.c",
+    "language": "c",
+    "input": "1\n",
+    "expected": "Domingo"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-06/exercicio-04.c",
+    "language": "c",
+    "input": "100\n",
+    "expected": "Total: 95.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-06/exercicio-05.php",
+    "language": "php",
+    "input": "17\n",
+    "expected": "Adolescente"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-07/exercicio-01.c",
+    "language": "c",
+    "input": "",
+    "expected": "99\n100"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-07/exercicio-02.c",
+    "language": "c",
+    "input": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n",
+    "expected": "Media: 5.50"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-07/exercicio-03.c",
+    "language": "c",
+    "input": "1\n1234\n",
+    "expected": "Acesso autorizado"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-07/exercicio-04.c",
+    "language": "c",
+    "input": "",
+    "expected": "48\n50"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-07/exercicio-05.php",
+    "language": "php",
+    "input": "3\n",
+    "expected": "3 x 10 = 30"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-08/exercicio-01.c",
+    "language": "c",
+    "input": "1\n2\n3\n4\n5\n",
+    "expected": "Soma: 15.00\nMedia: 3.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-08/exercicio-02.c",
+    "language": "c",
+    "input": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n",
+    "expected": "Pares: 5"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-08/exercicio-03.c",
+    "language": "c",
+    "input": "Ana\nBia\nCaio\nDavi\nEva\n",
+    "expected": "Ana\nBia\nCaio\nDavi\nEva"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-08/exercicio-04.c",
+    "language": "c",
+    "input": "20\n10\n30\n25\n15\n40\n18\n22\n",
+    "expected": "Mais nova: 10\nMais velha: 40"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-08/exercicio-05.php",
+    "language": "php",
+    "input": "",
+    "expected": "Preco: R$ 12,50"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-09/exercicio-01.c",
+    "language": "c",
+    "input": "1\n2\n3\n4\n5\n6\n7\n8\n9\n",
+    "expected": "Soma: 45.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-09/exercicio-02.c",
+    "language": "c",
+    "input": "1\n2\n3\n4\n5\n6\n7\n8\n9\n",
+    "expected": "1 5 9"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-09/exercicio-03.c",
+    "language": "c",
+    "input": "1\n2\n3\n4\n4\n3\n2\n1\n",
+    "expected": "5 5\n5 5"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-09/exercicio-04.c",
+    "language": "c",
+    "input": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n",
+    "expected": "Maiores que 10: 6"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-09/exercicio-05.php",
+    "language": "php",
+    "input": "",
+    "expected": "<td>9</td>"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-10/exercicio-01.c",
+    "language": "c",
+    "input": "2\n3\n",
+    "expected": "Soma: 5.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-10/exercicio-02.c",
+    "language": "c",
+    "input": "7\n7\n2\n",
+    "expected": "Maior: 7.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-10/exercicio-03.c",
+    "language": "c",
+    "input": "4\n6\n8\n",
+    "expected": "Media: 6.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-10/exercicio-04.c",
+    "language": "c",
+    "input": "5\n",
+    "expected": "Fatorial: 120"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-10/exercicio-05.php",
+    "language": "php",
+    "input": "Ana\n",
+    "expected": "Ola, Ana!"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-11/exercicio-01.c",
+    "language": "c",
+    "input": "",
+    "expected": "10\n20\n30"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-11/exercicio-02.c",
+    "language": "c",
+    "input": "3\nAna\nBia\nCaio\n",
+    "expected": "Atendido: Ana\nBia\nCaio"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-11/exercicio-03.c",
+    "language": "c",
+    "input": "3\n8\n4\n2\n",
+    "expected": "8\n4\n2"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-11/exercicio-05.php",
+    "language": "php",
+    "input": "",
+    "expected": "Ler o livro\nPraticar PHP"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-12/exercicio-01.c",
+    "language": "c",
+    "input": "10\n9\n8\n7\n6\n5\n4\n3\n2\n1\n",
+    "expected": "1 2 3 4 5 6 7 8 9 10"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-12/exercicio-02.php",
+    "language": "php",
+    "input": "Eva\nAna\nDavi\nCaio\nBia\n",
+    "expected": "Ana\nBia\nCaio\nDavi\nEva"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-12/exercicio-03.c",
+    "language": "c",
+    "input": "",
+    "expected": "Ordenado"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-12/exercicio-04.c",
+    "language": "c",
+    "input": "",
+    "expected": "Bubble: 10\nSelection: 2"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-12/exercicio-05.php",
+    "language": "php",
+    "input": "",
+    "expected": "-1 2 2 7 9"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-13/exercicio-01.c",
+    "language": "c",
+    "input": "8\n",
+    "expected": "Indice: 3"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-13/exercicio-02.c",
+    "language": "c",
+    "input": "10\n9\n8\n7\n6\n5\n4\n3\n2\n1\n7\n",
+    "expected": "Indice ordenado: 6"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-13/exercicio-03.php",
+    "language": "php",
+    "input": "Ana\n",
+    "expected": "Encontrado"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-13/exercicio-05.c",
+    "language": "c",
+    "input": "",
+    "expected": "n=1000 linear=1000 binaria=10"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-14/exercicio-01.c",
+    "language": "c",
+    "input": "Ana\n20\nBia\n30\nCaio\n40\n",
+    "expected": "3 pessoas gravadas"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-14/exercicio-02.c",
+    "language": "c",
+    "input": "",
+    "expected": "Ana"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-14/exercicio-03.c",
+    "language": "c",
+    "input": "Caio\n",
+    "expected": "Ana\nBia\nCaio"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-14/exercicio-04.php",
+    "language": "php",
+    "input": "",
+    "expected": "Acesso registrado"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-14/exercicio-05.c",
+    "language": "c",
+    "input": "",
+    "expected": "Linhas: 2"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-15/exercicio-01.c",
+    "language": "c",
+    "input": "3\n8\n",
+    "expected": "Maior: 8.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-15/exercicio-02.c",
+    "language": "c",
+    "input": "1000\n",
+    "expected": "Liquido: 920.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-15/exercicio-03.c",
+    "language": "c",
+    "input": "Ana\n6\n6\n6\n",
+    "expected": "Ana: 6.00 - Aprovado"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-15/exercicio-04.c",
+    "language": "c",
+    "input": "",
+    "expected": "99\n100 par"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-15/exercicio-05.php",
+    "language": "php",
+    "input": "0\n",
+    "expected": "Zero"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-16/exercicio-01.c",
+    "language": "c",
+    "input": "1\n2\n3\n0\n",
+    "expected": "Resultado: 5.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-16/exercicio-02.c",
+    "language": "c",
+    "input": "2\nAna\n6\n7\n8\nBia\n5\n5\n5\n",
+    "expected": "Ana: 7.00\nBia: 5.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-16/exercicio-03.c",
+    "language": "c",
+    "input": "1\n2\n2\n1\n0\n",
+    "expected": "Total: 28.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-16/exercicio-04.c",
+    "language": "c",
+    "input": "",
+    "expected": "1\n0\nFim!"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-16/exercicio-05.php",
+    "language": "php",
+    "input": "1\n5\n",
+    "expected": "Resultado: 120"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-17/exercicio-01.c",
+    "language": "c",
+    "input": "1\n10\n2\n3\n0\n",
+    "expected": "Estoque: 7"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-17/exercicio-02.c",
+    "language": "c",
+    "input": "300\n20\n",
+    "expected": "Consumo: 15.00 km/L"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-17/exercicio-03.c",
+    "language": "c",
+    "input": "aluno\nestudo123\n",
+    "expected": "Login aceito"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-17/exercicio-04.c",
+    "language": "c",
+    "input": "-1\n-2\n-3\n-4\n-5\n-6\n-7\n-8\n-9\n-10\n",
+    "expected": "Maior: -1.00\nMenor: -10.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-17/exercicio-05.c",
+    "language": "c",
+    "input": "20\n30\n25\n",
+    "expected": "Acertou!"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-18/exercicio-01.php",
+    "language": "php",
+    "input": "3\n8\n8\n",
+    "expected": "Maior: 8"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-18/exercicio-02.php",
+    "language": "php",
+    "input": "x\nx\nx\nx\naluno\nestudo123\n",
+    "expected": "Login aceito"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-18/exercicio-03.php",
+    "language": "php",
+    "input": "",
+    "expected": ""
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-18/exercicio-04.php",
+    "language": "php",
+    "input": "BRL\nUSD\n100\n",
+    "expected": "USD 20.00"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-18/exercicio-05.php",
+    "language": "php",
+    "input": "1\nEstudar\n2\n0\n",
+    "expected": "0: Estudar"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-19/exercicio-01.c",
+    "language": "c",
+    "input": "10\n",
+    "expected": "Soma: 55"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-19/exercicio-02.c",
+    "language": "c",
+    "input": "7\n",
+    "expected": "6\n4\n2\n0"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-19/exercicio-03.c",
+    "language": "c",
+    "input": "algoritmo\n",
+    "expected": "omtirogla"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-19/exercicio-04.c",
+    "language": "c",
+    "input": "",
+    "expected": "0 1 1 2 3 5 8 13 21 34 55 89 144 233 377"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-19/exercicio-05.c",
+    "language": "c",
+    "input": "",
+    "expected": "Resultado: 832040"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-20/exercicio-02.c",
+    "language": "c",
+    "input": "",
+    "expected": "Linear: 1000\nBinaria: 10"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-20/exercicio-03.c",
+    "language": "c",
+    "input": "",
+    "expected": "Ocorrencias: 100"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-20/exercicio-04.c",
+    "language": "c",
+    "input": "",
+    "expected": "F(20): 6765\nResultados iguais de 0 a 20"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/php/capitulo-20/exercicio-05.php",
+    "language": "php",
+    "input": "",
+    "expected": "Soma: 500000500000"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-21/exercicio-02.c",
+    "language": "c",
+    "input": "5\n6\n7\n",
+    "expected": "Aprovado"
+  },
+  {
+    "path": "livros/volume-1-logica-de-programacao/c/capitulo-21/exercicio-05.c",
+    "language": "c",
+    "input": "2\n3\n",
+    "expected": "Soma: 5.00"
+  }
+]

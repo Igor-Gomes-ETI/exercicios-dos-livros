@@ -1,0 +1,11 @@
+name: Verificar exemplos
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  exemplos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar C e PHP
+        run: python3 tests/verificar.py

@@ -1,36 +1,115 @@
-# Capítulo 13 — Algoritmos de Busca
+# Capítulo 13 — exercícios resolvidos
 
-Fonte: 1ª edição publicada, página impressa 106 (página 118 do PDF).
+Estas resoluções foram elaboradas com auxílio do ChatGPT e são exemplos de caminhos possíveis. Não são a única forma de resolver, nem necessariamente a melhor. Você pode criar sua própria solução, inclusive uma melhor, e compartilhá-la para que outros leitores comparem as abordagens.
 
-[Voltar ao índice](../README.md)
+[Como compartilhar outra solução](../../../CONTRIBUTING.md) · [Índice](../README.md)
 
 ## Exercício 1
 
+**Enunciado** (página impressa 106, página 118 do PDF):
+
 Crie um vetor com 10 números e implemente uma busca linear para localizar um valor informado pelo usuário.
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+Busque da primeira posição à última. Retorne -1 se não encontrar. O vetor escolhido é fixo porque o enunciado só exige ler o alvo.
+
+[Ver programa completo (C)](../c/capitulo-13/exercicio-01.c)
+
+Entrada de exemplo (uma informação por linha):
+
+```text
+8
+```
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+Indice: 3
+```
 
 ## Exercício 2
 
+**Enunciado** (página impressa 106, página 118 do PDF):
+
 Crie um programa que leia 10 números, os ordene e depois aplique uma busca binária.
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+Busca binária exige ordem. Ordene os dez números antes de buscar e informe o índice no vetor ordenado, não no original.
+
+[Ver programa completo (C)](../c/capitulo-13/exercicio-02.c)
+
+Entrada de exemplo (uma informação por linha):
+
+```text
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+7
+```
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+Indice ordenado: 6
+```
 
 ## Exercício 3
 
+**Enunciado** (página impressa 106, página 118 do PDF):
+
 Em PHP, crie uma busca em um array de nomes e exiba se o nome foi encontrado.
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+Faça busca estrita pelo nome. A comparação é sensível a maiúsculas e minúsculas.
+
+[Ver programa completo (PHP)](../php/capitulo-13/exercicio-03.php)
+
+Entrada de exemplo (uma informação por linha):
+
+```text
+Ana
+```
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+Encontrado
+```
 
 ## Exercício 4
 
+**Enunciado** (página impressa 106, página 118 do PDF):
+
 Explique, em suas palavras, a diferença entre busca linear e busca binária.
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+Busca linear examina elementos sucessivamente e funciona em dados desordenados; no pior caso é O(n). Busca binária elimina metade do intervalo a cada passo e exige dados ordenados; é O(log n). Ordenar antes também tem custo e deve ser considerado.
 
 ## Exercício 5
 
+**Enunciado** (página impressa 106, página 118 do PDF):
+
 Teste o desempenho das duas buscas com vetores de tamanhos diferentes (ex: 10, 100, 1000 elementos).
 
-**Resolução:** em preparação.
+### Uma resolução possível
 
+Para comparar de modo reproduzível, conte as inspeções ao buscar um valor ausente em vetores ordenados de 10, 100 e 1000 itens. Isso mede trabalho lógico, não tempo real.
+
+[Ver programa completo (C)](../c/capitulo-13/exercicio-05.c)
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+n=1000 linear=1000 binaria=10
+```

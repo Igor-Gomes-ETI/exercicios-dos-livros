@@ -1,38 +1,17 @@
-# Exercícios dos livros — Igor Gomes
+# Exercícios dos livros — Igor Gomes ETI
 
-Repositório de apoio aos livros de programação de Igor Gomes: resoluções comentadas, exemplos de execução e orientações de estudo.
+Estas resoluções foram elaboradas com auxílio do ChatGPT e são exemplos de caminhos possíveis. Não são a única forma de resolver, nem necessariamente a melhor. Você pode criar sua própria solução, inclusive uma melhor, e compartilhá-la para que outros leitores comparem as abordagens.
 
 ## Livro publicado
 
-### Volume 1 — Lógica de Programação e Algoritmo
-**Do raciocínio lógico ao código em C e PHP**
+[Volume 1 — Lógica de Programação e Algoritmos](livros/volume-1-logica-de-programacao/README.md): **105 exercícios resolvidos**, com respostas conceituais, pseudocódigo, fluxogramas e programas em C e PHP.
 
-- [Índice e status dos exercícios](livros/volume-1-logica-de-programacao/README.md)
-- [Exemplos em C](livros/volume-1-logica-de-programacao/c/README.md)
-- [Exemplos em PHP](livros/volume-1-logica-de-programacao/php/README.md)
-- [Conheça o livro](https://igorgomes.eti.br/logica-de-programacao/)
+## Compartilhe sua forma de resolver
 
-**Status:** os 105 enunciados da 1ª edição foram extraídos e conferidos, com índice por capítulo e referência de página. As resoluções comentadas estão em preparação.
+[Abra uma sugestão de solução](https://github.com/Igor-Gomes-ETI/exercicios-dos-livros/issues/new?template=solucao-alternativa.md) ou envie um pull request seguindo o [guia de contribuição](CONTRIBUTING.md). Explique suas escolhas e inclua exemplos de entrada e saída para facilitar a comparação.
 
-## Como estudar
+Outros volumes poderão ser adicionados usando [o modelo de exercício](modelos/exercicio.md), após sua publicação.
 
-1. Leia o enunciado no livro e tente resolvê-lo.
-2. Consulte a resolução correspondente e acompanhe os comentários.
-3. Execute os casos de exemplo e experimente outras entradas.
-4. Compare sua abordagem com a solução e registre o que aprendeu.
+## Verificação
 
-## Organização
-
-Cada livro terá sua pasta em `livros/`. As resoluções serão agrupadas por linguagem e capítulo, usando o número do exercício da edição publicada. Outros títulos serão cadastrados somente após a publicação.
-
-- [Modelo de documentação de um exercício](modelos/exercicio.md)
-- [Orientações para manutenção e novos livros](CONTRIBUTING.md)
-
-O repositório contém materiais de apoio, não o texto integral dos livros.
-
-## Contato e apoio
-
-- [Site profissional](https://igorgomes.eti.br)
-- [Instagram profissional @igorgomes.eti](https://www.instagram.com/igorgomes.eti/)
-- [GitHub Sponsors](https://github.com/sponsors/wizardigor)
-- [Patreon](https://www.patreon.com/cw/wizardigor)
+Execute `python3 tests/verificar.py` na raiz, com GCC e PHP 8.1 ou superior instalados. Os testes compilam C, validam a sintaxe PHP e executam exemplos em pastas temporárias. Casos de exemplo ajudam a conferir o comportamento, mas não provam ausência de erros em todas as entradas.

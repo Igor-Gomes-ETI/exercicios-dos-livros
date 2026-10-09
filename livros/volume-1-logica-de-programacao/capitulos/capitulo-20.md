@@ -1,36 +1,89 @@
-# Capítulo 20 — Complexidade de Algoritmos — Tempo e Espaço
+# Capítulo 20 — exercícios resolvidos
 
-Fonte: 1ª edição publicada, página impressa 171 (página 183 do PDF).
+Estas resoluções foram elaboradas com auxílio do ChatGPT e são exemplos de caminhos possíveis. Não são a única forma de resolver, nem necessariamente a melhor. Você pode criar sua própria solução, inclusive uma melhor, e compartilhá-la para que outros leitores comparem as abordagens.
 
-[Voltar ao índice](../README.md)
+[Como compartilhar outra solução](../../../CONTRIBUTING.md) · [Índice](../README.md)
 
 ## Exercício 1
 
+**Enunciado** (página impressa 171, página 183 do PDF):
+
 Calcule o tempo de execução teórico de um loop duplo (for dentro de for).
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+Se os dois laços executam n iterações independentes, o corpo executa n² vezes: tempo Θ(n²) e espaço auxiliar Θ(1) se usa apenas contadores. Para limites n e m diferentes, são n×m iterações. Laços com limites dependentes precisam de outra soma.
 
 ## Exercício 2
 
+**Enunciado** (página impressa 171, página 183 do PDF):
+
 Compare a busca linear e a binária em um vetor de 1000 elementos.
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+No vetor ordenado 0..999, busque o valor ausente 1000 e conte inspeções. A busca linear examina 1000 itens; a binária examina 10 posições. A ordenação prévia não está incluída porque os dados já são ordenados.
+
+[Ver programa completo (C)](../c/capitulo-20/exercicio-02.c)
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+Linear: 1000
+Binaria: 10
+```
 
 ## Exercício 3
 
+**Enunciado** (página impressa 171, página 183 do PDF):
+
 Escreva uma função que conte quantas vezes o número 1 aparece em uma matriz 100×100.
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+Uma função percorre exatamente 100×100 posições. No exemplo, a diagonal contém 1 e as demais posições zero, portanto o resultado é 100.
+
+[Ver programa completo (C)](../c/capitulo-20/exercicio-03.c)
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+Ocorrencias: 100
+```
 
 ## Exercício 4
 
+**Enunciado** (página impressa 171, página 183 do PDF):
+
 Implemente Fibonacci iterativo e compare com o recursivo.
 
-**Resolução:** em preparação.
+### Uma resolução possível
+
+Implemente iterativamente, compare com a recursiva e verifique valores de 0 a 20. A iterativa usa tempo O(n) e espaço O(1); a recursiva ingênua usa tempo exponencial e pilha O(n).
+
+[Ver programa completo (C)](../c/capitulo-20/exercicio-04.c)
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+F(20): 6765
+Resultados iguais de 0 a 20
+```
 
 ## Exercício 5
 
+**Enunciado** (página impressa 171, página 183 do PDF):
+
 Em PHP, crie um programa que meça o tempo de execução de um for de 1 até 1 milhão.
 
-**Resolução:** em preparação.
+### Uma resolução possível
 
+Use hrtime monotônico e acumule um resultado para tornar o trabalho observável. O tempo medido varia por execução e ambiente.
+
+[Ver programa completo (PHP)](../php/capitulo-20/exercicio-05.php)
+
+Resultado esperado (trecho quando houver outras mensagens):
+
+```text
+Soma: 500000500000
+```

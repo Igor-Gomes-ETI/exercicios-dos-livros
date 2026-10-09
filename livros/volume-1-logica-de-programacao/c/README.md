@@ -1,16 +1,14 @@
 # Exemplos em C
 
-Pasta preparada para as resoluções em C do Volume 1. Os arquivos serão adicionados após conferir os exercícios no livro.
+Estas resoluções foram elaboradas com auxílio do ChatGPT e são exemplos de caminhos possíveis. Não são a única forma de resolver, nem necessariamente a melhor. Você pode criar sua própria solução, inclusive uma melhor, e compartilhá-la para que outros leitores comparem as abordagens.
 
-## Execução
+Instale um compilador compatível com C11 (GCC).
 
-Com um compilador C instalado, compile o arquivo escolhido:
+Entre na pasta do capítulo e execute:
 
 ```sh
-gcc -std=c11 -Wall -Wextra -pedantic caminho/do/exercicio.c -o exercicio
-./exercicio
+gcc -std=c11 -Wall -Wextra -pedantic exercicio-01.c -lm -o exemplo
+./exemplo
 ```
 
-Substitua o caminho pelo arquivo real. No Windows, execute o programa gerado conforme seu terminal. Dependências ou opções adicionais serão informadas em cada exercício.
-
-[Voltar ao índice](../README.md)
+Informe cada valor em uma linha. Use ponto como separador decimal. Consulte o capítulo para entradas e resultados. Exemplos de arquivos criam dados na pasta de execução; execute-os em uma pasta de estudo.

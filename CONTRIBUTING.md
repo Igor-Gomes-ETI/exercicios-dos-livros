@@ -1,15 +1,16 @@
-# Organização e manutenção
+# Compartilhe sua solução
 
-## Resoluções
+Estas resoluções foram elaboradas com auxílio do ChatGPT e são exemplos de caminhos possíveis. Não são a única forma de resolver, nem necessariamente a melhor. Você pode criar sua própria solução, inclusive uma melhor, e compartilhá-la para que outros leitores comparem as abordagens.
 
-Antes de adicionar código, confira o exercício na edição publicada. Use a numeração original e o [modelo de documentação](modelos/exercicio.md). Não apresente exemplos inventados como exercícios do livro.
+## Pela página de sugestões
 
-Separe C e PHP. Dentro de cada linguagem, crie pastas por capítulo somente conforme o conteúdo real for conferido. Inclua comentários didáticos, instruções de execução e resultados esperados.
+Abra uma [Issue de solução alternativa](https://github.com/Igor-Gomes-ETI/exercicios-dos-livros/issues/new?template=solucao-alternativa.md). Informe livro, capítulo, exercício, linguagem, raciocínio e testes. Inclua o código ou um link público. Outros leitores poderão discutir e comparar as abordagens.
 
-## Receber novos livros
+## Com código no repositório
 
-A estrutura `livros/<identificador-do-livro>/` permite acrescentar novas publicações sem reorganizar as existentes. Cadastre título, edição e linguagem no README da nova pasta e acrescente o link ao catálogo principal somente após a publicação. Não liste títulos inéditos nem crie seus índices antecipadamente.
+1. Faça um fork e crie uma branch.
+2. Adicione sua solução em `alternativas/seu-usuario/volume-1/capitulo-NN/`, com um README explicando o exercício, como executar e os resultados esperados.
+3. Preserve o exemplo original para permitir comparação.
+4. Envie um pull request. A inclusão depende da revisão do mantenedor.
 
-## Limites do conteúdo
-
-Publique somente código e materiais de apoio autorizados. Não inclua o livro integral, dados pessoais, credenciais ou arquivos de execução gerados.
+Explique diferenças de legibilidade, limites, desempenho ou organização sem presumir que existe uma única resposta correta. Cite recursos e ferramentas utilizados, incluindo ajuda de IA quando houver. Não envie dados pessoais, credenciais, PDFs completos ou conteúdos de livros ainda não publicados. Correções nos exemplos existentes também são bem-vindas.

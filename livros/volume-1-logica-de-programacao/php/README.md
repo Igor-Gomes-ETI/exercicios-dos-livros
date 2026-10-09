@@ -1,21 +1,13 @@
 # Exemplos em PHP
 
-Pasta preparada para as resoluções em PHP do Volume 1. Os arquivos serão adicionados após conferir os exercícios no livro.
+Estas resoluções foram elaboradas com auxílio do ChatGPT e são exemplos de caminhos possíveis. Não são a única forma de resolver, nem necessariamente a melhor. Você pode criar sua própria solução, inclusive uma melhor, e compartilhá-la para que outros leitores comparem as abordagens.
 
-## Execução
+Use PHP 8.1 ou superior no terminal. Estes exemplos são de estudo; inclusive o exemplo que produz HTML pode ser executado pela linha de comando.
 
-Com PHP instalado, exemplos de terminal poderão ser executados com:
-
-```sh
-php caminho/do/exercicio.php
-```
-
-Para exemplos web, siga o README correspondente. O servidor de desenvolvimento local poderá ser iniciado, na pasta do exemplo, com:
+Entre na pasta do capítulo e execute:
 
 ```sh
-php -S localhost:8000
+php exercicio-01.php
 ```
 
-O servidor embutido é destinado ao desenvolvimento local. Cada resolução indicará sua forma de execução e requisitos.
-
-[Voltar ao índice](../README.md)
+Informe cada valor em uma linha. Use ponto como separador decimal. Consulte o capítulo para entradas e resultados. Exemplos de arquivos criam dados na pasta de execução; execute-os em uma pasta de estudo.
