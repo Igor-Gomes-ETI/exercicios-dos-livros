@@ -166,3 +166,7 @@ Resultado esperado (trecho quando houver outras mensagens):
 ```text
 <td>9</td>
 ```
+
+---
+
+**Quer entender os conceitos deste capítulo desde o início?** Conheça o livro completo *Lógica de Programação e Algoritmo*, de Igor Gomes: **[compre na Amazon](https://a.co/d/gTA39Jr)** ou **[adquira o impresso no Clube de Autores](https://clubedeautores.com.br/livro/logica-de-programacao-e-algoritmo)**.

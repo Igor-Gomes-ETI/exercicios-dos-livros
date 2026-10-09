@@ -87,3 +87,7 @@ Pense em uma tarefa do dia a dia que possa ser descrita como um algoritmo e escr
 ### Uma resolução possível
 
 Exemplo: escovar os dentes. Separe escova e creme dental; aplique o creme; escove as superfícies dos dentes; enxágue a boca; lave a escova e guarde os materiais. A resposta é aberta: outras tarefas e sequências claras também são válidas.
+
+---
+
+**Quer entender os conceitos deste capítulo desde o início?** Conheça o livro completo *Lógica de Programação e Algoritmo*, de Igor Gomes: **[compre na Amazon](https://a.co/d/gTA39Jr)** ou **[adquira o impresso no Clube de Autores](https://clubedeautores.com.br/livro/logica-de-programacao-e-algoritmo)**.

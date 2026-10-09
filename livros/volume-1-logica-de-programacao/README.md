@@ -6,6 +6,16 @@ Todos os **105 exercícios dos capítulos 1 a 21** possuem uma resolução de ex
 
 [Executar C](c/README.md) · [Executar PHP](php/README.md) · [Compartilhar alternativas](../../CONTRIBUTING.md)
 
+## Ainda não leu o livro?
+
+Os exercícios deste repositório acompanham **Lógica de Programação e Algoritmo — Do raciocínio lógico ao código em C e PHP**, de **Igor Gomes**. No livro completo, você encontra a explicação dos conceitos e a sequência de aprendizado que dá contexto às atividades. Leia, pratique e depois compare sua solução com as resoluções propostas aqui.
+
+**[Compre na Amazon](https://a.co/d/gTA39Jr)** · **[Compre o impresso no Clube de Autores](https://clubedeautores.com.br/livro/logica-de-programacao-e-algoritmo)**
+
+[Conheça o livro e sua proposta](https://igorgomes.eti.br/logica-de-programacao/). Ao adquirir um exemplar, você também apoia o trabalho do autor.
+
+## Exercícios por capítulo
+
 | Capítulo | Exercícios |
 |---|---|
 |[01](capitulos/capitulo-01.md)|5 resolvidos|

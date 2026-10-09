@@ -6,6 +6,14 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 [Volume 1 — Lógica de Programação e Algoritmos](livros/volume-1-logica-de-programacao/README.md): **105 exercícios resolvidos**, com respostas conceituais, pseudocódigo, fluxogramas e programas em C e PHP.
 
+## Ainda não leu o livro?
+
+Os exercícios deste repositório acompanham **Lógica de Programação e Algoritmo — Do raciocínio lógico ao código em C e PHP**, de **Igor Gomes**. No livro completo, você encontra a explicação dos conceitos e a sequência de aprendizado que dá contexto às atividades. Leia, pratique e depois compare sua solução com as resoluções propostas aqui.
+
+**[Compre na Amazon](https://a.co/d/gTA39Jr)** · **[Compre o impresso no Clube de Autores](https://clubedeautores.com.br/livro/logica-de-programacao-e-algoritmo)**
+
+[Conheça o livro e sua proposta](https://igorgomes.eti.br/logica-de-programacao/). Ao adquirir um exemplar, você também apoia o trabalho do autor.
+
 ## Compartilhe sua forma de resolver
 
 Crie uma pasta com seu nick em `alternativas/seu-nick/volume-1/capitulo-NN/exercicio-NN/`. Coloque sua resolução e um `README.md` explicando como executar e os testes realizados. **Preserve os arquivos originais de `livros/`.**

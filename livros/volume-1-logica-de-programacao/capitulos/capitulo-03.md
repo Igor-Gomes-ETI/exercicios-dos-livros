@@ -121,3 +121,7 @@ Pesquise e liste outras simbologias usadas em diagramas de bloco mais avançados
 ### Uma resolução possível
 
 Além das formas básicas: um pequeno círculo indica conector na mesma página; o conector fora da página indica continuidade em outra folha; o retângulo com barras laterais representa processo predefinido ou subrotina; o cilindro pode representar armazenamento em banco de dados; a forma de documento identifica saída documental. Inclua uma legenda: convenções variam entre ferramentas.
+
+---
+
+**Quer entender os conceitos deste capítulo desde o início?** Conheça o livro completo *Lógica de Programação e Algoritmo*, de Igor Gomes: **[compre na Amazon](https://a.co/d/gTA39Jr)** ou **[adquira o impresso no Clube de Autores](https://clubedeautores.com.br/livro/logica-de-programacao-e-algoritmo)**.

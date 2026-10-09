@@ -115,3 +115,7 @@ Explique com suas palavras a diferença entre variável e constante.
 ### Uma resolução possível
 
 Variável representa um valor que pode mudar durante a execução. Constante representa um valor definido que não deve ser alterado. Em C, const expressa essa restrição no código; em PHP, const ou define podem declarar constantes.
+
+---
+
+**Quer entender os conceitos deste capítulo desde o início?** Conheça o livro completo *Lógica de Programação e Algoritmo*, de Igor Gomes: **[compre na Amazon](https://a.co/d/gTA39Jr)** ou **[adquira o impresso no Clube de Autores](https://clubedeautores.com.br/livro/logica-de-programacao-e-algoritmo)**.
