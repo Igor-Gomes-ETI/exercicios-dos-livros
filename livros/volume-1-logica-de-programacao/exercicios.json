@@ -1,0 +1,742 @@
+{
+  "edition": "1ª edição publicada",
+  "title": "Lógica de Programação e Algoritmo",
+  "exercise_count": 105,
+  "exercises": [
+    {
+      "chapter": 1,
+      "number": 1,
+      "pdf_page": 22,
+      "printed_page": 10,
+      "text": "Descreva em linguagem natural o algoritmo para preparar um café."
+    },
+    {
+      "chapter": 1,
+      "number": 2,
+      "pdf_page": 22,
+      "printed_page": 10,
+      "text": "Escreva o pseudocódigo para verificar se uma pessoa é maior de idade."
+    },
+    {
+      "chapter": 1,
+      "number": 3,
+      "pdf_page": 22,
+      "printed_page": 10,
+      "text": "Explique, com suas palavras, a diferença entre lógica, algoritmo e programação."
+    },
+    {
+      "chapter": 1,
+      "number": 4,
+      "pdf_page": 22,
+      "printed_page": 10,
+      "text": "Converta o seguinte algoritmo em C: • Ler dois números. • Somar os números. • Mostrar o resultado."
+    },
+    {
+      "chapter": 1,
+      "number": 5,
+      "pdf_page": 22,
+      "printed_page": 10,
+      "text": "Pense em uma tarefa do dia a dia que possa ser descrita como um algoritmo e escreva-a passo a passo."
+    },
+    {
+      "chapter": 2,
+      "number": 1,
+      "pdf_page": 29,
+      "printed_page": 17,
+      "text": "Crie um algoritmo que leia o nome e a idade de uma pessoa e exiba: “Olá, [nome]! Você tem [idade] anos.”"
+    },
+    {
+      "chapter": 2,
+      "number": 2,
+      "pdf_page": 29,
+      "printed_page": 17,
+      "text": "Desenvolva um algoritmo para calcular o IMC (Índice de Massa Corporal), considerando: • IMC = peso / (altura × altura)"
+    },
+    {
+      "chapter": 2,
+      "number": 3,
+      "pdf_page": 29,
+      "printed_page": 17,
+      "text": "Escreva o pseudocódigo para determinar se um número é par ou ímpar."
+    },
+    {
+      "chapter": 2,
+      "number": 4,
+      "pdf_page": 29,
+      "printed_page": 17,
+      "text": "Faça um teste de mesa para o algoritmo de cálculo da média de notas apresentado no capítulo."
+    },
+    {
+      "chapter": 2,
+      "number": 5,
+      "pdf_page": 29,
+      "printed_page": 17,
+      "text": "Crie um algoritmo que leia o valor de uma compra e exiba o valor com 10% de desconto."
+    },
+    {
+      "chapter": 3,
+      "number": 1,
+      "pdf_page": 37,
+      "printed_page": 25,
+      "text": "Desenhe o diagrama de bloco para calcular o dobro de um número informado pelo usuário."
+    },
+    {
+      "chapter": 3,
+      "number": 2,
+      "pdf_page": 37,
+      "printed_page": 25,
+      "text": "Crie um diagrama de bloco que leia duas notas e mostre se o aluno foi aprovado ou reprovado (média mínima = 6)."
+    },
+    {
+      "chapter": 3,
+      "number": 3,
+      "pdf_page": 37,
+      "printed_page": 25,
+      "text": "Faça o diagrama de um algoritmo que soma números até que o usuário digite 0."
+    },
+    {
+      "chapter": 3,
+      "number": 4,
+      "pdf_page": 37,
+      "printed_page": 25,
+      "text": "Transforme o diagrama do exercício anterior em pseudocódigo e código C."
+    },
+    {
+      "chapter": 3,
+      "number": 5,
+      "pdf_page": 37,
+      "printed_page": 25,
+      "text": "Pesquise e liste outras simbologias usadas em diagramas de bloco mais avançados (ex: conectores, subprocessos)."
+    },
+    {
+      "chapter": 4,
+      "number": 1,
+      "pdf_page": 46,
+      "printed_page": 34,
+      "text": "Declare três variáveis (idade, peso, altura) e mostre os valores na tela."
+    },
+    {
+      "chapter": 4,
+      "number": 2,
+      "pdf_page": 46,
+      "printed_page": 34,
+      "text": "Escreva um programa que leia o nome e o ano de nascimento de uma pessoa e mostre sua idade."
+    },
+    {
+      "chapter": 4,
+      "number": 3,
+      "pdf_page": 46,
+      "printed_page": 34,
+      "text": "Crie uma constante chamada PI e use-a para calcular a área de um círculo."
+    },
+    {
+      "chapter": 4,
+      "number": 4,
+      "pdf_page": 46,
+      "printed_page": 34,
+      "text": "Converta um valor em reais para dólares, usando uma constante TAXA_CAMBIO."
+    },
+    {
+      "chapter": 4,
+      "number": 5,
+      "pdf_page": 46,
+      "printed_page": 34,
+      "text": "Explique com suas palavras a diferença entre variável e constante."
+    },
+    {
+      "chapter": 5,
+      "number": 1,
+      "pdf_page": 55,
+      "printed_page": 43,
+      "text": "Escreva um programa em C que leia dois números e mostre: • A soma • A subtração • A multiplicação • O quociente • O resto da divisão"
+    },
+    {
+      "chapter": 5,
+      "number": 2,
+      "pdf_page": 55,
+      "printed_page": 43,
+      "text": "Crie um programa que leia a idade e diga se o usuário é maior de idade."
+    },
+    {
+      "chapter": 5,
+      "number": 3,
+      "pdf_page": 55,
+      "printed_page": 43,
+      "text": "Desenvolva um código que receba três notas e diga se o aluno foi aprovado (média ≥ 6)."
+    },
+    {
+      "chapter": 5,
+      "number": 4,
+      "pdf_page": 55,
+      "printed_page": 43,
+      "text": "Teste a diferença entre x++ e ++x e anote os resultados."
+    },
+    {
+      "chapter": 5,
+      "number": 5,
+      "pdf_page": 55,
+      "printed_page": 43,
+      "text": "Em PHP, crie uma expressão que verifique se um número é positivo e par ao mesmo tempo."
+    },
+    {
+      "chapter": 6,
+      "number": 1,
+      "pdf_page": 62,
+      "printed_page": 50,
+      "text": "Escreva um programa que leia a idade e diga se a pessoa é criança (≤12), adolescente (≤17), adulto (≤59) ou idoso (≥60)."
+    },
+    {
+      "chapter": 6,
+      "number": 2,
+      "pdf_page": 62,
+      "printed_page": 50,
+      "text": "Crie um algoritmo que leia uma nota e informe se o aluno foi aprovado (≥6), em recuperação (≥4) ou reprovado (<4)."
+    },
+    {
+      "chapter": 6,
+      "number": 3,
+      "pdf_page": 62,
+      "printed_page": 50,
+      "text": "Faça um programa com switch que exiba o dia da semana de acordo com o número digitado (1 = Domingo, 2 = Segunda...)."
+    },
+    {
+      "chapter": 6,
+      "number": 4,
+      "pdf_page": 62,
+      "printed_page": 50,
+      "text": "Escreva um código que pergunte o valor da compra e exiba o desconto aplicado: • Até R$100 → 5% • Até R$500 → 10% • Acima de R$500 → 15%"
+    },
+    {
+      "chapter": 6,
+      "number": 5,
+      "pdf_page": 62,
+      "printed_page": 50,
+      "text": "Em PHP, refaça o exercício 1 usando if... elseif... else."
+    },
+    {
+      "chapter": 7,
+      "number": 1,
+      "pdf_page": 70,
+      "printed_page": 58,
+      "text": "Escreva um programa que mostre os números de 1 a 100."
+    },
+    {
+      "chapter": 7,
+      "number": 2,
+      "pdf_page": 70,
+      "printed_page": 58,
+      "text": "Faça um programa que leia 10 números e calcule a média deles."
+    },
+    {
+      "chapter": 7,
+      "number": 3,
+      "pdf_page": 70,
+      "printed_page": 58,
+      "text": "Crie um programa que peça uma senha numérica e continue pedindo até o usuário digitar a senha correta."
+    },
+    {
+      "chapter": 7,
+      "number": 4,
+      "pdf_page": 70,
+      "printed_page": 58,
+      "text": "Faça um programa que mostre todos os números pares entre 1 e 50."
+    },
+    {
+      "chapter": 7,
+      "number": 5,
+      "pdf_page": 70,
+      "printed_page": 58,
+      "text": "Em PHP, crie um loop que mostre a tabuada de um número informado pelo usuário."
+    },
+    {
+      "chapter": 8,
+      "number": 1,
+      "pdf_page": 77,
+      "printed_page": 65,
+      "text": "Crie um vetor de 5 posições e preencha com valores digitados pelo usuário. Em seguida, mostre a soma e a média desses valores."
+    },
+    {
+      "chapter": 8,
+      "number": 2,
+      "pdf_page": 77,
+      "printed_page": 65,
+      "text": "Escreva um programa que leia 10 números inteiros e conte quantos são pares."
+    },
+    {
+      "chapter": 8,
+      "number": 3,
+      "pdf_page": 77,
+      "printed_page": 65,
+      "text": "Faça um algoritmo que armazene o nome de 5 alunos e mostre todos na tela."
+    },
+    {
+      "chapter": 8,
+      "number": 4,
+      "pdf_page": 77,
+      "printed_page": 65,
+      "text": "Crie um programa que leia 8 idades e mostre a mais nova e a mais velha."
+    },
+    {
+      "chapter": 8,
+      "number": 5,
+      "pdf_page": 77,
+      "printed_page": 65,
+      "text": "Em PHP, crie um array associativo com informações de um produto (nome, preço, estoque) e exiba os valores formatados."
+    },
+    {
+      "chapter": 9,
+      "number": 1,
+      "pdf_page": 84,
+      "printed_page": 72,
+      "text": "Leia uma matriz 3×3 e exiba a soma dos elementos."
+    },
+    {
+      "chapter": 9,
+      "number": 2,
+      "pdf_page": 84,
+      "printed_page": 72,
+      "text": "Crie um programa que leia uma matriz 3×3 e mostre a diagonal principal."
+    },
+    {
+      "chapter": 9,
+      "number": 3,
+      "pdf_page": 84,
+      "printed_page": 72,
+      "text": "Desenvolva um código que leia duas matrizes 2×2 e exiba a soma entre elas."
+    },
+    {
+      "chapter": 9,
+      "number": 4,
+      "pdf_page": 84,
+      "printed_page": 72,
+      "text": "Faça um programa que leia uma matriz 4×4 e conte quantos valores são maiores que 10."
+    },
+    {
+      "chapter": 9,
+      "number": 5,
+      "pdf_page": 84,
+      "printed_page": 72,
+      "text": "Em PHP, monte uma matriz 3×3 e exiba os elementos em formato de tabela HTML."
+    },
+    {
+      "chapter": 10,
+      "number": 1,
+      "pdf_page": 92,
+      "printed_page": 80,
+      "text": "Crie uma função soma() que receba dois números e retorne o resultado."
+    },
+    {
+      "chapter": 10,
+      "number": 2,
+      "pdf_page": 92,
+      "printed_page": 80,
+      "text": "Crie uma função maior() que receba três números e retorne o maior deles."
+    },
+    {
+      "chapter": 10,
+      "number": 3,
+      "pdf_page": 92,
+      "printed_page": 80,
+      "text": "Desenvolva uma função mediaAluno() que receba 3 notas e retorne a média."
+    },
+    {
+      "chapter": 10,
+      "number": 4,
+      "pdf_page": 92,
+      "printed_page": 80,
+      "text": "Crie uma função recursiva para calcular o fatorial de um número."
+    },
+    {
+      "chapter": 10,
+      "number": 5,
+      "pdf_page": 92,
+      "printed_page": 80,
+      "text": "Em PHP, crie uma função que receba o nome de uma pessoa e retorne uma saudação personalizada."
+    },
+    {
+      "chapter": 11,
+      "number": 1,
+      "pdf_page": 101,
+      "printed_page": 89,
+      "text": "Crie uma lista encadeada simples com três elementos e mostre os valores."
+    },
+    {
+      "chapter": 11,
+      "number": 2,
+      "pdf_page": 101,
+      "printed_page": 89,
+      "text": "Faça um programa que simule uma fila de atendimento, onde novos nomes são adicionados e o primeiro é removido."
+    },
+    {
+      "chapter": 11,
+      "number": 3,
+      "pdf_page": 101,
+      "printed_page": 89,
+      "text": "Desenvolva um código que utilize malloc() para criar um vetor de tamanho informado pelo usuário."
+    },
+    {
+      "chapter": 11,
+      "number": 4,
+      "pdf_page": 101,
+      "printed_page": 89,
+      "text": "Explique, com suas palavras, a diferença entre pilha e fila."
+    },
+    {
+      "chapter": 11,
+      "number": 5,
+      "pdf_page": 101,
+      "printed_page": 89,
+      "text": "Em PHP, crie uma lista de tarefas e mostre como inserir e remover itens dela."
+    },
+    {
+      "chapter": 12,
+      "number": 1,
+      "pdf_page": 110,
+      "printed_page": 98,
+      "text": "Implemente o Bubble Sort para ordenar 10 números digitados pelo usuário."
+    },
+    {
+      "chapter": 12,
+      "number": 2,
+      "pdf_page": 110,
+      "printed_page": 98,
+      "text": "Faça um programa que leia 5 nomes e os exiba em ordem alfabética (C ou PHP)."
+    },
+    {
+      "chapter": 12,
+      "number": 3,
+      "pdf_page": 110,
+      "printed_page": 98,
+      "text": "Crie um vetor com valores aleatórios e ordene usando o Selection Sort."
+    },
+    {
+      "chapter": 12,
+      "number": 4,
+      "pdf_page": 110,
+      "printed_page": 98,
+      "text": "Compare o número de trocas realizadas no Bubble Sort e no Selection Sort."
+    },
+    {
+      "chapter": 12,
+      "number": 5,
+      "pdf_page": 110,
+      "printed_page": 98,
+      "text": "Use o sort() do PHP e depois implemente manualmente o mesmo resultado com o Insertion Sort."
+    },
+    {
+      "chapter": 13,
+      "number": 1,
+      "pdf_page": 118,
+      "printed_page": 106,
+      "text": "Crie um vetor com 10 números e implemente uma busca linear para localizar um valor informado pelo usuário."
+    },
+    {
+      "chapter": 13,
+      "number": 2,
+      "pdf_page": 118,
+      "printed_page": 106,
+      "text": "Crie um programa que leia 10 números, os ordene e depois aplique uma busca binária."
+    },
+    {
+      "chapter": 13,
+      "number": 3,
+      "pdf_page": 118,
+      "printed_page": 106,
+      "text": "Em PHP, crie uma busca em um array de nomes e exiba se o nome foi encontrado."
+    },
+    {
+      "chapter": 13,
+      "number": 4,
+      "pdf_page": 118,
+      "printed_page": 106,
+      "text": "Explique, em suas palavras, a diferença entre busca linear e busca binária."
+    },
+    {
+      "chapter": 13,
+      "number": 5,
+      "pdf_page": 118,
+      "printed_page": 106,
+      "text": "Teste o desempenho das duas buscas com vetores de tamanhos diferentes (ex: 10, 100, 1000 elementos)."
+    },
+    {
+      "chapter": 14,
+      "number": 1,
+      "pdf_page": 127,
+      "printed_page": 115,
+      "text": "Crie um programa em C que grave o nome e a idade de 3 pessoas em um arquivo."
+    },
+    {
+      "chapter": 14,
+      "number": 2,
+      "pdf_page": 127,
+      "printed_page": 115,
+      "text": "Faça um programa que leia o conteúdo de um arquivo e exiba na tela."
+    },
+    {
+      "chapter": 14,
+      "number": 3,
+      "pdf_page": 127,
+      "printed_page": 115,
+      "text": "Adapte o exercício anterior para adicionar mais nomes sem apagar os anteriores."
+    },
+    {
+      "chapter": 14,
+      "number": 4,
+      "pdf_page": 127,
+      "printed_page": 115,
+      "text": "Em PHP, crie um script que registre um log de acessos (data e hora) em um arquivo."
+    },
+    {
+      "chapter": 14,
+      "number": 5,
+      "pdf_page": 127,
+      "printed_page": 115,
+      "text": "Faça um programa que leia os dados de um arquivo e mostre quantas linhas ele possui."
+    },
+    {
+      "chapter": 15,
+      "number": 1,
+      "pdf_page": 136,
+      "printed_page": 124,
+      "text": "Escreva um algoritmo que leia dois números e mostre o maior."
+    },
+    {
+      "chapter": 15,
+      "number": 2,
+      "pdf_page": 136,
+      "printed_page": 124,
+      "text": "Faça um programa que calcule o salário líquido com base no salário bruto e um desconto de 8%."
+    },
+    {
+      "chapter": 15,
+      "number": 3,
+      "pdf_page": 136,
+      "printed_page": 124,
+      "text": "Crie um programa que leia o nome e três notas de um aluno e mostre a média e o resultado."
+    },
+    {
+      "chapter": 15,
+      "number": 4,
+      "pdf_page": 136,
+      "printed_page": 124,
+      "text": "Desenvolva um programa que mostre os números de 1 a 100 e indique quais são pares."
+    },
+    {
+      "chapter": 15,
+      "number": 5,
+      "pdf_page": 136,
+      "printed_page": 124,
+      "text": "Em PHP, crie um algoritmo que receba um valor e informe se ele é positivo, negativo ou zero."
+    },
+    {
+      "chapter": 16,
+      "number": 1,
+      "pdf_page": 145,
+      "printed_page": 133,
+      "text": "Crie um programa com um menu de 4 opções: soma, subtração, multiplicação e divisão."
+    },
+    {
+      "chapter": 16,
+      "number": 2,
+      "pdf_page": 145,
+      "printed_page": 133,
+      "text": "Faça um sistema que leia o nome e 3 notas de vários alunos, mostrando a média de cada um."
+    },
+    {
+      "chapter": 16,
+      "number": 3,
+      "pdf_page": 145,
+      "printed_page": 133,
+      "text": "Crie um programa que exiba um menu de compras (produto e preço) e calcule o total."
+    },
+    {
+      "chapter": 16,
+      "number": 4,
+      "pdf_page": 145,
+      "printed_page": 133,
+      "text": "Escreva um programa que exiba um contador regressivo de 10 a 0 e mostre “Fim!”."
+    },
+    {
+      "chapter": 16,
+      "number": 5,
+      "pdf_page": 145,
+      "printed_page": 133,
+      "text": "Em PHP, crie um menu que permita calcular fatorial, potência e raiz quadrada."
+    },
+    {
+      "chapter": 17,
+      "number": 1,
+      "pdf_page": 157,
+      "printed_page": 145,
+      "text": "Crie um programa que gerencie o estoque de uma loja (entrada e saída de produtos)."
+    },
+    {
+      "chapter": 17,
+      "number": 2,
+      "pdf_page": 157,
+      "printed_page": 145,
+      "text": "Desenvolva um programa que calcule o consumo médio de combustível de um carro."
+    },
+    {
+      "chapter": 17,
+      "number": 3,
+      "pdf_page": 157,
+      "printed_page": 145,
+      "text": "Faça um simulador de login (usuário e senha pré-cadastrados)."
+    },
+    {
+      "chapter": 17,
+      "number": 4,
+      "pdf_page": 157,
+      "printed_page": 145,
+      "text": "Crie um programa que leia 10 números e mostre o maior e o menor."
+    },
+    {
+      "chapter": 17,
+      "number": 5,
+      "pdf_page": 157,
+      "printed_page": 145,
+      "text": "Monte um jogo simples de adivinhação de número entre 1 e 50."
+    },
+    {
+      "chapter": 18,
+      "number": 1,
+      "pdf_page": 167,
+      "printed_page": 155,
+      "text": "Crie um programa PHP que receba 3 números e diga qual é o maior."
+    },
+    {
+      "chapter": 18,
+      "number": 2,
+      "pdf_page": 167,
+      "printed_page": 155,
+      "text": "Faça um sistema de login com até 3 tentativas antes de bloquear."
+    },
+    {
+      "chapter": 18,
+      "number": 3,
+      "pdf_page": 167,
+      "printed_page": 155,
+      "text": "Desenvolva um gerador de senhas aleatórias com letras e números."
+    },
+    {
+      "chapter": 18,
+      "number": 4,
+      "pdf_page": 167,
+      "printed_page": 155,
+      "text": "Crie um conversor de moedas (Real, Dólar, Euro)."
+    },
+    {
+      "chapter": 18,
+      "number": 5,
+      "pdf_page": 167,
+      "printed_page": 155,
+      "text": "Implemente um controle de tarefas (To-Do List) gravando cada item em arquivo."
+    },
+    {
+      "chapter": 19,
+      "number": 1,
+      "pdf_page": 174,
+      "printed_page": 162,
+      "text": "Crie uma função recursiva que calcule a soma dos números de 1 a N."
+    },
+    {
+      "chapter": 19,
+      "number": 2,
+      "pdf_page": 174,
+      "printed_page": 162,
+      "text": "Escreva uma função que exiba todos os números pares de N até 0."
+    },
+    {
+      "chapter": 19,
+      "number": 3,
+      "pdf_page": 174,
+      "printed_page": 162,
+      "text": "Desenvolva uma função recursiva que inverta uma string."
+    },
+    {
+      "chapter": 19,
+      "number": 4,
+      "pdf_page": 174,
+      "printed_page": 162,
+      "text": "Implemente a sequência de Fibonacci até o 15º termo."
+    },
+    {
+      "chapter": 19,
+      "number": 5,
+      "pdf_page": 174,
+      "printed_page": 162,
+      "text": "Compare o tempo de execução de Fibonacci recursivo e iterativo."
+    },
+    {
+      "chapter": 20,
+      "number": 1,
+      "pdf_page": 183,
+      "printed_page": 171,
+      "text": "Calcule o tempo de execução teórico de um loop duplo (for dentro de for)."
+    },
+    {
+      "chapter": 20,
+      "number": 2,
+      "pdf_page": 183,
+      "printed_page": 171,
+      "text": "Compare a busca linear e a binária em um vetor de 1000 elementos."
+    },
+    {
+      "chapter": 20,
+      "number": 3,
+      "pdf_page": 183,
+      "printed_page": 171,
+      "text": "Escreva uma função que conte quantas vezes o número 1 aparece em uma matriz 100×100."
+    },
+    {
+      "chapter": 20,
+      "number": 4,
+      "pdf_page": 183,
+      "printed_page": 171,
+      "text": "Implemente Fibonacci iterativo e compare com o recursivo."
+    },
+    {
+      "chapter": 20,
+      "number": 5,
+      "pdf_page": 183,
+      "printed_page": 171,
+      "text": "Em PHP, crie um programa que meça o tempo de execução de um for de 1 até 1 milhão."
+    },
+    {
+      "chapter": 21,
+      "number": 1,
+      "pdf_page": 190,
+      "printed_page": 178,
+      "text": "Descreva em pseudocódigo o processo de preparar um sanduíche."
+    },
+    {
+      "chapter": 21,
+      "number": 2,
+      "pdf_page": 190,
+      "printed_page": 178,
+      "text": "Crie um algoritmo que leia 3 notas e mostre se o aluno foi aprovado."
+    },
+    {
+      "chapter": 21,
+      "number": 3,
+      "pdf_page": 190,
+      "printed_page": 178,
+      "text": "Explique com suas palavras o que é abstração e dê um exemplo."
+    },
+    {
+      "chapter": 21,
+      "number": 4,
+      "pdf_page": 190,
+      "printed_page": 178,
+      "text": "Liste 5 situações do dia a dia onde você usaria decomposição."
+    },
+    {
+      "chapter": 21,
+      "number": 5,
+      "pdf_page": 190,
+      "printed_page": 178,
+      "text": "Refaça um exercício anterior pensando nos 4 pilares do pensamento computacional."
+    }
+  ]
+}

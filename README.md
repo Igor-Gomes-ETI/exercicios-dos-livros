@@ -12,7 +12,7 @@ Repositório de apoio aos livros de programação de Igor Gomes: resoluções co
 - [Exemplos em PHP](livros/volume-1-logica-de-programacao/php/README.md)
 - [Conheça o livro](https://igorgomes.eti.br/logica-de-programacao/)
 
-**Status:** estrutura preparada. As resoluções serão adicionadas após a conferência dos enunciados na edição publicada. Nenhum exercício está disponível ainda.
+**Status:** os 105 enunciados da 1ª edição foram extraídos e conferidos, com índice por capítulo e referência de página. As resoluções comentadas estão em preparação.
 
 ## Como estudar
 
