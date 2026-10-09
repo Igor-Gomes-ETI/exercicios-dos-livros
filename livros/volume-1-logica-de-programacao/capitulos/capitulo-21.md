@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 178, página 190 do PDF):
+**Enunciado** (página impressa 178, página 190 do livro completo):
 
 Descreva em pseudocódigo o processo de preparar um sanduíche.
 
@@ -26,7 +26,7 @@ FIM
 
 ## Exercício 2
 
-**Enunciado** (página impressa 178, página 190 do PDF):
+**Enunciado** (página impressa 178, página 190 do livro completo):
 
 Crie um algoritmo que leia 3 notas e mostre se o aluno foi aprovado.
 
@@ -52,7 +52,7 @@ Aprovado
 
 ## Exercício 3
 
-**Enunciado** (página impressa 178, página 190 do PDF):
+**Enunciado** (página impressa 178, página 190 do livro completo):
 
 Explique com suas palavras o que é abstração e dê um exemplo.
 
@@ -62,7 +62,7 @@ Abstração seleciona o que importa para o problema e omite detalhes irrelevante
 
 ## Exercício 4
 
-**Enunciado** (página impressa 178, página 190 do PDF):
+**Enunciado** (página impressa 178, página 190 do livro completo):
 
 Liste 5 situações do dia a dia onde você usaria decomposição.
 
@@ -72,7 +72,7 @@ Cinco exemplos: organizar uma viagem (transporte, hospedagem, roteiro); preparar
 
 ## Exercício 5
 
-**Enunciado** (página impressa 178, página 190 do PDF):
+**Enunciado** (página impressa 178, página 190 do livro completo):
 
 Refaça um exercício anterior pensando nos 4 pilares do pensamento computacional.
 

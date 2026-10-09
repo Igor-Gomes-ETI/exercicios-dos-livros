@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 133, página 145 do PDF):
+**Enunciado** (página impressa 133, página 145 do livro completo):
 
 Crie um programa com um menu de 4 opções: soma, subtração, multiplicação e divisão.
 
@@ -33,7 +33,7 @@ Resultado: 5.00
 
 ## Exercício 2
 
-**Enunciado** (página impressa 133, página 145 do PDF):
+**Enunciado** (página impressa 133, página 145 do livro completo):
 
 Faça um sistema que leia o nome e 3 notas de vários alunos, mostrando a média de cada um.
 
@@ -66,7 +66,7 @@ Bia: 5.00
 
 ## Exercício 3
 
-**Enunciado** (página impressa 133, página 145 do PDF):
+**Enunciado** (página impressa 133, página 145 do livro completo):
 
 Crie um programa que exiba um menu de compras (produto e preço) e calcule o total.
 
@@ -94,7 +94,7 @@ Total: 28.00
 
 ## Exercício 4
 
-**Enunciado** (página impressa 133, página 145 do PDF):
+**Enunciado** (página impressa 133, página 145 do livro completo):
 
 Escreva um programa que exiba um contador regressivo de 10 a 0 e mostre “Fim!”.
 
@@ -114,7 +114,7 @@ Fim!
 
 ## Exercício 5
 
-**Enunciado** (página impressa 133, página 145 do PDF):
+**Enunciado** (página impressa 133, página 145 do livro completo):
 
 Em PHP, crie um menu que permita calcular fatorial, potência e raiz quadrada.
 

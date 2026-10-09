@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 72, página 84 do PDF):
+**Enunciado** (página impressa 72, página 84 do livro completo):
 
 Leia uma matriz 3×3 e exiba a soma dos elementos.
 
@@ -38,7 +38,7 @@ Soma: 45.00
 
 ## Exercício 2
 
-**Enunciado** (página impressa 72, página 84 do PDF):
+**Enunciado** (página impressa 72, página 84 do livro completo):
 
 Crie um programa que leia uma matriz 3×3 e mostre a diagonal principal.
 
@@ -70,7 +70,7 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 3
 
-**Enunciado** (página impressa 72, página 84 do PDF):
+**Enunciado** (página impressa 72, página 84 do livro completo):
 
 Desenvolva um código que leia duas matrizes 2×2 e exiba a soma entre elas.
 
@@ -102,7 +102,7 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 4
 
-**Enunciado** (página impressa 72, página 84 do PDF):
+**Enunciado** (página impressa 72, página 84 do livro completo):
 
 Faça um programa que leia uma matriz 4×4 e conte quantos valores são maiores que 10.
 
@@ -141,7 +141,7 @@ Maiores que 10: 6
 
 ## Exercício 5
 
-**Enunciado** (página impressa 72, página 84 do PDF):
+**Enunciado** (página impressa 72, página 84 do livro completo):
 
 Em PHP, monte uma matriz 3×3 e exiba os elementos em formato de tabela HTML.
 

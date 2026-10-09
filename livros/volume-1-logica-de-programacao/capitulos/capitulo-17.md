@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 145, página 157 do PDF):
+**Enunciado** (página impressa 145, página 157 do livro completo):
 
 Crie um programa que gerencie o estoque de uma loja (entrada e saída de produtos).
 
@@ -34,7 +34,7 @@ Estoque: 7
 
 ## Exercício 2
 
-**Enunciado** (página impressa 145, página 157 do PDF):
+**Enunciado** (página impressa 145, página 157 do livro completo):
 
 Desenvolva um programa que calcule o consumo médio de combustível de um carro.
 
@@ -59,7 +59,7 @@ Consumo: 15.00 km/L
 
 ## Exercício 3
 
-**Enunciado** (página impressa 145, página 157 do PDF):
+**Enunciado** (página impressa 145, página 157 do livro completo):
 
 Faça um simulador de login (usuário e senha pré-cadastrados).
 
@@ -84,7 +84,7 @@ Login aceito
 
 ## Exercício 4
 
-**Enunciado** (página impressa 145, página 157 do PDF):
+**Enunciado** (página impressa 145, página 157 do livro completo):
 
 Crie um programa que leia 10 números e mostre o maior e o menor.
 
@@ -118,7 +118,7 @@ Menor: -10.00
 
 ## Exercício 5
 
-**Enunciado** (página impressa 145, página 157 do PDF):
+**Enunciado** (página impressa 145, página 157 do livro completo):
 
 Monte um jogo simples de adivinhação de número entre 1 e 50.
 

@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 171, página 183 do PDF):
+**Enunciado** (página impressa 171, página 183 do livro completo):
 
 Calcule o tempo de execução teórico de um loop duplo (for dentro de for).
 
@@ -16,7 +16,7 @@ Se os dois laços executam n iterações independentes, o corpo executa n² veze
 
 ## Exercício 2
 
-**Enunciado** (página impressa 171, página 183 do PDF):
+**Enunciado** (página impressa 171, página 183 do livro completo):
 
 Compare a busca linear e a binária em um vetor de 1000 elementos.
 
@@ -35,7 +35,7 @@ Binaria: 10
 
 ## Exercício 3
 
-**Enunciado** (página impressa 171, página 183 do PDF):
+**Enunciado** (página impressa 171, página 183 do livro completo):
 
 Escreva uma função que conte quantas vezes o número 1 aparece em uma matriz 100×100.
 
@@ -53,7 +53,7 @@ Ocorrencias: 100
 
 ## Exercício 4
 
-**Enunciado** (página impressa 171, página 183 do PDF):
+**Enunciado** (página impressa 171, página 183 do livro completo):
 
 Implemente Fibonacci iterativo e compare com o recursivo.
 
@@ -72,7 +72,7 @@ Resultados iguais de 0 a 20
 
 ## Exercício 5
 
-**Enunciado** (página impressa 171, página 183 do PDF):
+**Enunciado** (página impressa 171, página 183 do livro completo):
 
 Em PHP, crie um programa que meça o tempo de execução de um for de 1 até 1 milhão.
 

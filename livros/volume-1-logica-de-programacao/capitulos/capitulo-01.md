@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 10, página 22 do PDF):
+**Enunciado** (página impressa 10, página 22 do livro completo):
 
 Descreva em linguagem natural o algoritmo para preparar um café.
 
@@ -16,7 +16,7 @@ Uma sequência em linguagem natural pode ser: separar água, café, filtro e rec
 
 ## Exercício 2
 
-**Enunciado** (página impressa 10, página 22 do PDF):
+**Enunciado** (página impressa 10, página 22 do livro completo):
 
 Escreva o pseudocódigo para verificar se uma pessoa é maior de idade.
 
@@ -35,7 +35,7 @@ FIM
 
 ## Exercício 3
 
-**Enunciado** (página impressa 10, página 22 do PDF):
+**Enunciado** (página impressa 10, página 22 do livro completo):
 
 Explique, com suas palavras, a diferença entre lógica, algoritmo e programação.
 
@@ -45,7 +45,7 @@ Lógica organiza o raciocínio e as relações entre condições. Algoritmo é u
 
 ## Exercício 4
 
-**Enunciado** (página impressa 10, página 22 do PDF):
+**Enunciado** (página impressa 10, página 22 do livro completo):
 
 Converta o seguinte algoritmo em C: • Ler dois números. • Somar os números. • Mostrar o resultado.
 
@@ -70,7 +70,7 @@ Soma: 5.00
 
 ## Exercício 5
 
-**Enunciado** (página impressa 10, página 22 do PDF):
+**Enunciado** (página impressa 10, página 22 do livro completo):
 
 Pense em uma tarefa do dia a dia que possa ser descrita como um algoritmo e escreva-a passo a passo.
 

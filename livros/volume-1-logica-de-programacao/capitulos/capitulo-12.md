@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 98, página 110 do PDF):
+**Enunciado** (página impressa 98, página 110 do livro completo):
 
 Implemente o Bubble Sort para ordenar 10 números digitados pelo usuário.
 
@@ -39,7 +39,7 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 2
 
-**Enunciado** (página impressa 98, página 110 do PDF):
+**Enunciado** (página impressa 98, página 110 do livro completo):
 
 Faça um programa que leia 5 nomes e os exiba em ordem alfabética (C ou PHP).
 
@@ -71,7 +71,7 @@ Eva
 
 ## Exercício 3
 
-**Enunciado** (página impressa 98, página 110 do PDF):
+**Enunciado** (página impressa 98, página 110 do livro completo):
 
 Crie um vetor com valores aleatórios e ordene usando o Selection Sort.
 
@@ -89,7 +89,7 @@ Ordenado
 
 ## Exercício 4
 
-**Enunciado** (página impressa 98, página 110 do PDF):
+**Enunciado** (página impressa 98, página 110 do livro completo):
 
 Compare o número de trocas realizadas no Bubble Sort e no Selection Sort.
 
@@ -108,7 +108,7 @@ Selection: 2
 
 ## Exercício 5
 
-**Enunciado** (página impressa 98, página 110 do PDF):
+**Enunciado** (página impressa 98, página 110 do livro completo):
 
 Use o sort() do PHP e depois implemente manualmente o mesmo resultado com o Insertion Sort.
 

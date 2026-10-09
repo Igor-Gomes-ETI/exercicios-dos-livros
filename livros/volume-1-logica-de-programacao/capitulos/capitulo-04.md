@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 34, página 46 do PDF):
+**Enunciado** (página impressa 34, página 46 do livro completo):
 
 Declare três variáveis (idade, peso, altura) e mostre os valores na tela.
 
@@ -24,7 +24,7 @@ Idade: 25; Peso: 70.50; Altura: 1.75
 
 ## Exercício 2
 
-**Enunciado** (página impressa 34, página 46 do PDF):
+**Enunciado** (página impressa 34, página 46 do livro completo):
 
 Escreva um programa que leia o nome e o ano de nascimento de uma pessoa e mostre sua idade.
 
@@ -50,7 +50,7 @@ Ana: idade aproximada 26
 
 ## Exercício 3
 
-**Enunciado** (página impressa 34, página 46 do PDF):
+**Enunciado** (página impressa 34, página 46 do livro completo):
 
 Crie uma constante chamada PI e use-a para calcular a área de um círculo.
 
@@ -74,7 +74,7 @@ Area: 12.5664
 
 ## Exercício 4
 
-**Enunciado** (página impressa 34, página 46 do PDF):
+**Enunciado** (página impressa 34, página 46 do livro completo):
 
 Converta um valor em reais para dólares, usando uma constante TAXA_CAMBIO.
 
@@ -98,7 +98,7 @@ Dolares: 20.00
 
 ## Exercício 5
 
-**Enunciado** (página impressa 34, página 46 do PDF):
+**Enunciado** (página impressa 34, página 46 do livro completo):
 
 Explique com suas palavras a diferença entre variável e constante.
 

@@ -13,4 +13,4 @@ Abra uma [Issue de solução alternativa](https://github.com/Igor-Gomes-ETI/exer
 3. Preserve o exemplo original para permitir comparação.
 4. Envie um pull request. A inclusão depende da revisão do mantenedor.
 
-Explique diferenças de legibilidade, limites, desempenho ou organização sem presumir que existe uma única resposta correta. Cite recursos e ferramentas utilizados. Não envie dados pessoais, credenciais, PDFs completos ou conteúdos de livros ainda não publicados. Correções nos exemplos existentes também são bem-vindas.
+Explique diferenças de legibilidade, limites, desempenho ou organização sem presumir que existe uma única resposta correta. Cite recursos e ferramentas utilizados. Não envie dados pessoais, credenciais, livros completos ou conteúdos de livros ainda não publicados. Correções nos exemplos existentes também são bem-vindas.

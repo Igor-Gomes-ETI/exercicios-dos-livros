@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 124, página 136 do PDF):
+**Enunciado** (página impressa 124, página 136 do livro completo):
 
 Escreva um algoritmo que leia dois números e mostre o maior.
 
@@ -31,7 +31,7 @@ Maior: 8.00
 
 ## Exercício 2
 
-**Enunciado** (página impressa 124, página 136 do PDF):
+**Enunciado** (página impressa 124, página 136 do livro completo):
 
 Faça um programa que calcule o salário líquido com base no salário bruto e um desconto de 8%.
 
@@ -55,7 +55,7 @@ Liquido: 920.00
 
 ## Exercício 3
 
-**Enunciado** (página impressa 124, página 136 do PDF):
+**Enunciado** (página impressa 124, página 136 do livro completo):
 
 Crie um programa que leia o nome e três notas de um aluno e mostre a média e o resultado.
 
@@ -82,7 +82,7 @@ Ana: 6.00 - Aprovado
 
 ## Exercício 4
 
-**Enunciado** (página impressa 124, página 136 do PDF):
+**Enunciado** (página impressa 124, página 136 do livro completo):
 
 Desenvolva um programa que mostre os números de 1 a 100 e indique quais são pares.
 
@@ -101,7 +101,7 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 5
 
-**Enunciado** (página impressa 124, página 136 do PDF):
+**Enunciado** (página impressa 124, página 136 do livro completo):
 
 Em PHP, crie um algoritmo que receba um valor e informe se ele é positivo, negativo ou zero.
 

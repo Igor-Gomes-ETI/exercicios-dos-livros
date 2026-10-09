@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 155, página 167 do PDF):
+**Enunciado** (página impressa 155, página 167 do livro completo):
 
 Crie um programa PHP que receba 3 números e diga qual é o maior.
 
@@ -32,7 +32,7 @@ Maior: 8
 
 ## Exercício 2
 
-**Enunciado** (página impressa 155, página 167 do PDF):
+**Enunciado** (página impressa 155, página 167 do livro completo):
 
 Faça um sistema de login com até 3 tentativas antes de bloquear.
 
@@ -61,7 +61,7 @@ Login aceito
 
 ## Exercício 3
 
-**Enunciado** (página impressa 155, página 167 do PDF):
+**Enunciado** (página impressa 155, página 167 do livro completo):
 
 Desenvolva um gerador de senhas aleatórias com letras e números.
 
@@ -77,7 +77,7 @@ O resultado varia; consulte a explicação e os testes para os critérios de ver
 
 ## Exercício 4
 
-**Enunciado** (página impressa 155, página 167 do PDF):
+**Enunciado** (página impressa 155, página 167 do livro completo):
 
 Crie um conversor de moedas (Real, Dólar, Euro).
 
@@ -103,7 +103,7 @@ USD 20.00
 
 ## Exercício 5
 
-**Enunciado** (página impressa 155, página 167 do PDF):
+**Enunciado** (página impressa 155, página 167 do livro completo):
 
 Implemente um controle de tarefas (To-Do List) gravando cada item em arquivo.
 

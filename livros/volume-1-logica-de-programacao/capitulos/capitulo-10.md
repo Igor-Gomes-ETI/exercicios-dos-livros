@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 80, página 92 do PDF):
+**Enunciado** (página impressa 80, página 92 do livro completo):
 
 Crie uma função soma() que receba dois números e retorne o resultado.
 
@@ -31,7 +31,7 @@ Soma: 5.00
 
 ## Exercício 2
 
-**Enunciado** (página impressa 80, página 92 do PDF):
+**Enunciado** (página impressa 80, página 92 do livro completo):
 
 Crie uma função maior() que receba três números e retorne o maior deles.
 
@@ -57,7 +57,7 @@ Maior: 7.00
 
 ## Exercício 3
 
-**Enunciado** (página impressa 80, página 92 do PDF):
+**Enunciado** (página impressa 80, página 92 do livro completo):
 
 Desenvolva uma função mediaAluno() que receba 3 notas e retorne a média.
 
@@ -83,7 +83,7 @@ Media: 6.00
 
 ## Exercício 4
 
-**Enunciado** (página impressa 80, página 92 do PDF):
+**Enunciado** (página impressa 80, página 92 do livro completo):
 
 Crie uma função recursiva para calcular o fatorial de um número.
 
@@ -107,7 +107,7 @@ Fatorial: 120
 
 ## Exercício 5
 
-**Enunciado** (página impressa 80, página 92 do PDF):
+**Enunciado** (página impressa 80, página 92 do livro completo):
 
 Em PHP, crie uma função que receba o nome de uma pessoa e retorne uma saudação personalizada.
 

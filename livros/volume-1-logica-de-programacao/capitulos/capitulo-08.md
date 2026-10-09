@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 65, página 77 do PDF):
+**Enunciado** (página impressa 65, página 77 do livro completo):
 
 Crie um vetor de 5 posições e preencha com valores digitados pelo usuário. Em seguida, mostre a soma e a média desses valores.
 
@@ -35,7 +35,7 @@ Media: 3.00
 
 ## Exercício 2
 
-**Enunciado** (página impressa 65, página 77 do PDF):
+**Enunciado** (página impressa 65, página 77 do livro completo):
 
 Escreva um programa que leia 10 números inteiros e conte quantos são pares.
 
@@ -68,7 +68,7 @@ Pares: 5
 
 ## Exercício 3
 
-**Enunciado** (página impressa 65, página 77 do PDF):
+**Enunciado** (página impressa 65, página 77 do livro completo):
 
 Faça um algoritmo que armazene o nome de 5 alunos e mostre todos na tela.
 
@@ -100,7 +100,7 @@ Eva
 
 ## Exercício 4
 
-**Enunciado** (página impressa 65, página 77 do PDF):
+**Enunciado** (página impressa 65, página 77 do livro completo):
 
 Crie um programa que leia 8 idades e mostre a mais nova e a mais velha.
 
@@ -132,7 +132,7 @@ Mais velha: 40
 
 ## Exercício 5
 
-**Enunciado** (página impressa 65, página 77 do PDF):
+**Enunciado** (página impressa 65, página 77 do livro completo):
 
 Em PHP, crie um array associativo com informações de um produto (nome, preço, estoque) e exiba os valores formatados.
 

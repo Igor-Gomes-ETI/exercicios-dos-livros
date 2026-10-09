@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 106, página 118 do PDF):
+**Enunciado** (página impressa 106, página 118 do livro completo):
 
 Crie um vetor com 10 números e implemente uma busca linear para localizar um valor informado pelo usuário.
 
@@ -30,7 +30,7 @@ Indice: 3
 
 ## Exercício 2
 
-**Enunciado** (página impressa 106, página 118 do PDF):
+**Enunciado** (página impressa 106, página 118 do livro completo):
 
 Crie um programa que leia 10 números, os ordene e depois aplique uma busca binária.
 
@@ -64,7 +64,7 @@ Indice ordenado: 6
 
 ## Exercício 3
 
-**Enunciado** (página impressa 106, página 118 do PDF):
+**Enunciado** (página impressa 106, página 118 do livro completo):
 
 Em PHP, crie uma busca em um array de nomes e exiba se o nome foi encontrado.
 
@@ -88,7 +88,7 @@ Encontrado
 
 ## Exercício 4
 
-**Enunciado** (página impressa 106, página 118 do PDF):
+**Enunciado** (página impressa 106, página 118 do livro completo):
 
 Explique, em suas palavras, a diferença entre busca linear e busca binária.
 
@@ -98,7 +98,7 @@ Busca linear examina elementos sucessivamente e funciona em dados desordenados; 
 
 ## Exercício 5
 
-**Enunciado** (página impressa 106, página 118 do PDF):
+**Enunciado** (página impressa 106, página 118 do livro completo):
 
 Teste o desempenho das duas buscas com vetores de tamanhos diferentes (ex: 10, 100, 1000 elementos).
 

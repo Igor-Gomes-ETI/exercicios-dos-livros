@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 89, página 101 do PDF):
+**Enunciado** (página impressa 89, página 101 do livro completo):
 
 Crie uma lista encadeada simples com três elementos e mostre os valores.
 
@@ -26,7 +26,7 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 2
 
-**Enunciado** (página impressa 89, página 101 do PDF):
+**Enunciado** (página impressa 89, página 101 do livro completo):
 
 Faça um programa que simule uma fila de atendimento, onde novos nomes são adicionados e o primeiro é removido.
 
@@ -55,7 +55,7 @@ Caio
 
 ## Exercício 3
 
-**Enunciado** (página impressa 89, página 101 do PDF):
+**Enunciado** (página impressa 89, página 101 do livro completo):
 
 Desenvolva um código que utilize malloc() para criar um vetor de tamanho informado pelo usuário.
 
@@ -84,7 +84,7 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 4
 
-**Enunciado** (página impressa 89, página 101 do PDF):
+**Enunciado** (página impressa 89, página 101 do livro completo):
 
 Explique, com suas palavras, a diferença entre pilha e fila.
 
@@ -94,7 +94,7 @@ Pilha usa LIFO: o último a entrar é o primeiro a sair, como uma pilha de prato
 
 ## Exercício 5
 
-**Enunciado** (página impressa 89, página 101 do PDF):
+**Enunciado** (página impressa 89, página 101 do livro completo):
 
 Em PHP, crie uma lista de tarefas e mostre como inserir e remover itens dela.
 

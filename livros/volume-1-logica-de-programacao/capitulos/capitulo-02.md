@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 17, página 29 do PDF):
+**Enunciado** (página impressa 17, página 29 do livro completo):
 
 Crie um algoritmo que leia o nome e a idade de uma pessoa e exiba: “Olá, [nome]! Você tem [idade] anos.”
 
@@ -31,7 +31,7 @@ Ola, Ana Silva! Voce tem 20 anos.
 
 ## Exercício 2
 
-**Enunciado** (página impressa 17, página 29 do PDF):
+**Enunciado** (página impressa 17, página 29 do livro completo):
 
 Desenvolva um algoritmo para calcular o IMC (Índice de Massa Corporal), considerando: • IMC = peso / (altura × altura)
 
@@ -56,7 +56,7 @@ IMC: 22.22
 
 ## Exercício 3
 
-**Enunciado** (página impressa 17, página 29 do PDF):
+**Enunciado** (página impressa 17, página 29 do livro completo):
 
 Escreva o pseudocódigo para determinar se um número é par ou ímpar.
 
@@ -74,7 +74,7 @@ FIM
 
 ## Exercício 4
 
-**Enunciado** (página impressa 17, página 29 do PDF):
+**Enunciado** (página impressa 17, página 29 do livro completo):
 
 Faça um teste de mesa para o algoritmo de cálculo da média de notas apresentado no capítulo.
 
@@ -90,7 +90,7 @@ O algoritmo do capítulo usa QUATRO notas (P1, P2, P3, P4), não três. Some as 
 
 ## Exercício 5
 
-**Enunciado** (página impressa 17, página 29 do PDF):
+**Enunciado** (página impressa 17, página 29 do livro completo):
 
 Crie um algoritmo que leia o valor de uma compra e exiba o valor com 10% de desconto.
 

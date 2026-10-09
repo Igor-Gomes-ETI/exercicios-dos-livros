@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 115, página 127 do PDF):
+**Enunciado** (página impressa 115, página 127 do livro completo):
 
 Crie um programa em C que grave o nome e a idade de 3 pessoas em um arquivo.
 
@@ -35,7 +35,7 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 2
 
-**Enunciado** (página impressa 115, página 127 do PDF):
+**Enunciado** (página impressa 115, página 127 do livro completo):
 
 Faça um programa que leia o conteúdo de um arquivo e exiba na tela.
 
@@ -55,7 +55,7 @@ Ana
 
 ## Exercício 3
 
-**Enunciado** (página impressa 115, página 127 do PDF):
+**Enunciado** (página impressa 115, página 127 do livro completo):
 
 Adapte o exercício anterior para adicionar mais nomes sem apagar os anteriores.
 
@@ -81,7 +81,7 @@ Caio
 
 ## Exercício 4
 
-**Enunciado** (página impressa 115, página 127 do PDF):
+**Enunciado** (página impressa 115, página 127 do livro completo):
 
 Em PHP, crie um script que registre um log de acessos (data e hora) em um arquivo.
 
@@ -99,7 +99,7 @@ Acesso registrado
 
 ## Exercício 5
 
-**Enunciado** (página impressa 115, página 127 do PDF):
+**Enunciado** (página impressa 115, página 127 do livro completo):
 
 Faça um programa que leia os dados de um arquivo e mostre quantas linhas ele possui.
 

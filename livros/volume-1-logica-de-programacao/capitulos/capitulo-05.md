@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 43, página 55 do PDF):
+**Enunciado** (página impressa 43, página 55 do livro completo):
 
 Escreva um programa em C que leia dois números e mostre: • A soma • A subtração • A multiplicação • O quociente • O resto da divisão
 
@@ -32,7 +32,7 @@ Resto: 1
 
 ## Exercício 2
 
-**Enunciado** (página impressa 43, página 55 do PDF):
+**Enunciado** (página impressa 43, página 55 do livro completo):
 
 Crie um programa que leia a idade e diga se o usuário é maior de idade.
 
@@ -56,7 +56,7 @@ Maior de idade
 
 ## Exercício 3
 
-**Enunciado** (página impressa 43, página 55 do PDF):
+**Enunciado** (página impressa 43, página 55 do livro completo):
 
 Desenvolva um código que receba três notas e diga se o aluno foi aprovado (média ≥ 6).
 
@@ -82,7 +82,7 @@ Aprovado
 
 ## Exercício 4
 
-**Enunciado** (página impressa 43, página 55 do PDF):
+**Enunciado** (página impressa 43, página 55 do livro completo):
 
 Teste a diferença entre x++ e ++x e anote os resultados.
 
@@ -101,7 +101,7 @@ x++: retorno=5, x=6
 
 ## Exercício 5
 
-**Enunciado** (página impressa 43, página 55 do PDF):
+**Enunciado** (página impressa 43, página 55 do livro completo):
 
 Em PHP, crie uma expressão que verifique se um número é positivo e par ao mesmo tempo.
 

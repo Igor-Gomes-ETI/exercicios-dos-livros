@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 25, página 37 do PDF):
+**Enunciado** (página impressa 25, página 37 do livro completo):
 
 Desenhe o diagrama de bloco para calcular o dobro de um número informado pelo usuário.
 
@@ -24,7 +24,7 @@ flowchart TD
 
 ## Exercício 2
 
-**Enunciado** (página impressa 25, página 37 do PDF):
+**Enunciado** (página impressa 25, página 37 do livro completo):
 
 Crie um diagrama de bloco que leia duas notas e mostre se o aluno foi aprovado ou reprovado (média mínima = 6).
 
@@ -45,7 +45,7 @@ flowchart TD
 
 ## Exercício 3
 
-**Enunciado** (página impressa 25, página 37 do PDF):
+**Enunciado** (página impressa 25, página 37 do livro completo):
 
 Faça o diagrama de um algoritmo que soma números até que o usuário digite 0.
 
@@ -66,7 +66,7 @@ flowchart TD
 
 ## Exercício 4
 
-**Enunciado** (página impressa 25, página 37 do PDF):
+**Enunciado** (página impressa 25, página 37 do livro completo):
 
 Transforme o diagrama do exercício anterior em pseudocódigo e código C.
 
@@ -104,7 +104,7 @@ Soma: 4.00
 
 ## Exercício 5
 
-**Enunciado** (página impressa 25, página 37 do PDF):
+**Enunciado** (página impressa 25, página 37 do livro completo):
 
 Pesquise e liste outras simbologias usadas em diagramas de bloco mais avançados (ex: conectores, subprocessos).
 

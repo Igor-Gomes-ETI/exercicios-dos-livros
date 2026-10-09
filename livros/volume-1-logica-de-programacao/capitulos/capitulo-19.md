@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 162, página 174 do PDF):
+**Enunciado** (página impressa 162, página 174 do livro completo):
 
 Crie uma função recursiva que calcule a soma dos números de 1 a N.
 
@@ -30,7 +30,7 @@ Soma: 55
 
 ## Exercício 2
 
-**Enunciado** (página impressa 162, página 174 do PDF):
+**Enunciado** (página impressa 162, página 174 do livro completo):
 
 Escreva uma função que exiba todos os números pares de N até 0.
 
@@ -57,7 +57,7 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 3
 
-**Enunciado** (página impressa 162, página 174 do PDF):
+**Enunciado** (página impressa 162, página 174 do livro completo):
 
 Desenvolva uma função recursiva que inverta uma string.
 
@@ -81,7 +81,7 @@ omtirogla
 
 ## Exercício 4
 
-**Enunciado** (página impressa 162, página 174 do PDF):
+**Enunciado** (página impressa 162, página 174 do livro completo):
 
 Implemente a sequência de Fibonacci até o 15º termo.
 
@@ -99,7 +99,7 @@ Resultado esperado (trecho quando houver outras mensagens):
 
 ## Exercício 5
 
-**Enunciado** (página impressa 162, página 174 do PDF):
+**Enunciado** (página impressa 162, página 174 do livro completo):
 
 Compare o tempo de execução de Fibonacci recursivo e iterativo.
 

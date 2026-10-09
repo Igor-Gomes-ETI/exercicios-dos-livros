@@ -6,7 +6,7 @@ Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a
 
 ## Exercício 1
 
-**Enunciado** (página impressa 50, página 62 do PDF):
+**Enunciado** (página impressa 50, página 62 do livro completo):
 
 Escreva um programa que leia a idade e diga se a pessoa é criança (≤12), adolescente (≤17), adulto (≤59) ou idoso (≥60).
 
@@ -30,7 +30,7 @@ Idoso
 
 ## Exercício 2
 
-**Enunciado** (página impressa 50, página 62 do PDF):
+**Enunciado** (página impressa 50, página 62 do livro completo):
 
 Crie um algoritmo que leia uma nota e informe se o aluno foi aprovado (≥6), em recuperação (≥4) ou reprovado (<4).
 
@@ -54,7 +54,7 @@ Recuperacao
 
 ## Exercício 3
 
-**Enunciado** (página impressa 50, página 62 do PDF):
+**Enunciado** (página impressa 50, página 62 do livro completo):
 
 Faça um programa com switch que exiba o dia da semana de acordo com o número digitado (1 = Domingo, 2 = Segunda...).
 
@@ -78,7 +78,7 @@ Domingo
 
 ## Exercício 4
 
-**Enunciado** (página impressa 50, página 62 do PDF):
+**Enunciado** (página impressa 50, página 62 do livro completo):
 
 Escreva um código que pergunte o valor da compra e exiba o desconto aplicado: • Até R$100 → 5% • Até R$500 → 10% • Acima de R$500 → 15%
 
@@ -102,7 +102,7 @@ Total: 95.00
 
 ## Exercício 5
 
-**Enunciado** (página impressa 50, página 62 do PDF):
+**Enunciado** (página impressa 50, página 62 do livro completo):
 
 Em PHP, refaça o exercício 1 usando if... elseif... else.
 
