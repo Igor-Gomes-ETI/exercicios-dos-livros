@@ -1,6 +1,6 @@
 # Capítulo 04 — exercícios resolvidos
 
-Estas resoluções foram elaboradas com auxílio do ChatGPT e são exemplos de caminhos possíveis. Não são a única forma de resolver, nem necessariamente a melhor. Você pode criar sua própria solução, inclusive uma melhor, e compartilhá-la para que outros leitores comparem as abordagens.
+Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a única forma de resolver, nem necessariamente a melhor. Você pode criar sua própria solução, inclusive uma melhor, e compartilhá-la para que outros leitores comparem as abordagens.
 
 [Como compartilhar outra solução](../../../CONTRIBUTING.md) · [Índice](../README.md)
 

@@ -1,6 +1,6 @@
 # Volume 1 — Lógica de Programação e Algoritmos
 
-Estas resoluções foram elaboradas com auxílio do ChatGPT e são exemplos de caminhos possíveis. Não são a única forma de resolver, nem necessariamente a melhor. Você pode criar sua própria solução, inclusive uma melhor, e compartilhá-la para que outros leitores comparem as abordagens.
+Estas são resoluções propostas e exemplos de caminhos possíveis. Não são a única forma de resolver, nem necessariamente a melhor. Você pode criar sua própria solução, inclusive uma melhor, e compartilhá-la para que outros leitores comparem as abordagens.
 
 Todos os **105 exercícios dos capítulos 1 a 21** possuem uma resolução de exemplo. O capítulo 22 é a conclusão. Os enunciados seguem a edição publicada fornecida pelo autor; o PDF completo não é redistribuído aqui.
 
